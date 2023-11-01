@@ -1,31 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width">
-            <title></title>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>KosovoProject</title>
 
-        <!--put your external stylesheet links here-->
-        <link rel = "stylesheet" href = "lib/leaflet/leaflet.css">
-        <link rel = "stylesheet" href="css/style.css">
-        <!--[if IE<9]>
-            <link rel="stylesheet" href="css/style.ie.css">
-        <![endif]-->
-        
-        <!--you can also place internal styles here
-        place these within <style> tags-->  
-        
-    </head>
+    <!-- Include Leaflet CSS -->
+    <link rel="stylesheet" href="lib/leaflet/leaflet.css">
 
-    <body>
-        <!--put your initial page content here-->  
-        <div id = "map"></div>
+    <!-- Include your custom CSS if needed -->
+    <link rel="stylesheet" href="css/style.css">
 
-        <!--you can also use this space for internal scripts;
-        place these within <script> tags-->
+    <!--[if IE<9]>
+        <link rel="stylesheet" href="css/style.ie.css">
+    <![endif>
+    <!-- You can also place internal styles here within <style> tags -->
 
-        <!--put your external script links here-->
-        <script type = "text/javascript" src = "lib/leaflet/leaflet.js"></script>
-        <script type="text/javascript" src="js/main.js"></script>
-    </body>
+</head>
+<body>
+    <!-- Create a container for the map -->
+    <div id="map"></div>
+    <div class="map-title-container">
+        <div id="map-title">NATO Bombing of Yugoslavia, 1999</div>
+    </div>
+
+    <!-- Create controls for month selection and day slider -->
+    <div class="controls">
+        <select id="month-select">
+            <option value="3">March</option>
+            <option value="4">April</option>
+            <option value="5">May</option>
+            <option value="6">June</option>
+        </select>
+        <img src="img/backward.png" id="prev-day" alt="Previous Day">
+        <input type="range" id="day-slider" min="1" max="31" step="1">
+        <img src="img/forward.png" id="next-day" alt="Next Day">
+    </div>
+    <p>Day <span id="day-value">1</span></p>
+
+    <!-- Include Leaflet JS and your custom JS -->
+    <script type="text/javascript" src="lib/leaflet/leaflet.js"></script>
+    <script type="text/javascript" src="JS/sam3.js"></script>
+</body>
 </html>

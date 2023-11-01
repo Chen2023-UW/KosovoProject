@@ -6,8 +6,8 @@ var dataStats = {};
 function createMap() {
   //create the map
   map = L.map("map", {
-    center: [0, -60],
-    zoom: 3,
+    center: [44, 20],
+    zoom: 8,
   });
 
   //add OSM base tilelayer
@@ -335,7 +335,7 @@ function createtitle(){
     },
     onAdd: function(){
       var maptitle = L.DomUtil.create('div', 'titletext')
-      maptitle.innerHTML = 'Immigrantion to the US from America Continent';
+      maptitle.innerHTML = 'NATO Bombing of Serbia, 1999';
       return maptitle;
     },
   });
@@ -361,7 +361,7 @@ function createreference(){
 
 function getData(map){
   //load the data
-  fetch("data/immi.geojson")
+  fetch("Data/natostrike.geojson")
       .then(function(response){
           return response.json();
       })
@@ -374,7 +374,7 @@ function getData(map){
           createreference();
           /*createLegend(attributes);*/
           /*createtextbox();*/
-          /*createtitle();*/
+          createtitle();
       })
 };
 
