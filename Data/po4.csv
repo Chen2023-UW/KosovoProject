@@ -1,0 +1,1080 @@
+id,location,region,type,month,day,descr,deaths,death_stat,lon,lat
+1,"7. Juli, Paracin",Serbia,military facility,4,16,barracks,0,,21.41,43.86
+2,Ada Ciganlija,Serbia,industry,5,18,depot,0,,20.41,44.79
+3,Ada Ciganlija,Serbia,industry,5,20,depot,0,,20.41,44.79
+4,"Aleksandrovo, Merosina",Serbia,military units,6,3,,0,,21.75,43.3
+5,Aleksinac,Serbia,military facility,3,26,barracks,0,,21.71,43.53
+6,Aleksinac,Serbia,civilian,4,5,,12,civilian,21.71,43.54
+7,Aleksinac,Serbia,civilian,5,28,house,3,civilian,21.71,43.54
+8,Arandjelovac,Serbia,communications,3,25,relay on Bukulja,0,,20.53,44.3
+9,Ariljaca,Kosovo,military units,5,1,,3,civilian,21,42.58
+10,Avala,Serbia,military units,3,24,,0,,20.49,44.73
+11,Avala,Serbia,military units,3,26,,0,,20.49,44.73
+12,Avala,Serbia,military units,3,30,,0,,20.49,44.73
+13,Avala,Serbia,military units,4,23,,0,,20.49,44.73
+14,Avala,Serbia,communications,4,25,,0,,20.49,44.73
+15,Avala,Serbia,military units,5,7,,0,,20.49,44.73
+16,Avalski toranj,Serbia,communications,4,29,,0,,20.51,44.7
+17,"Backa Palanka, most 25. maj",Serbia,infrastructure,4,3,bridge,0,,19.4,45.23
+18,"Backa Palanka, most 25. maj",Serbia,infrastructure,4,27,bridge,0,,19.4,45.23
+19,Bair,Kosovo,military units,4,19,,0,,20.87,42.88
+20,Bair,Kosovo,military units,5,22,,0,,20.87,42.88
+21,Bajina Basta,Serbia,industry,5,21,plant,0,,19.57,43.97
+22,Banatski Dvor,Serbia,infrastructure,5,20,bridge,0,,20.52,45.51
+23,Banatski Dvor,Serbia,infrastructure,5,22,bridge,0,,20.52,45.51
+24,Banjica,Serbia,military facility,4,3,police,0,,20.46,44.77
+25,"Banjica, ul. Vasa Carapic",Serbia,military facility,4,13,,0,,20.47,44.76
+26,Banjica/Baice,Kosovo,military units,3,28,,1,military,20.91,42.52
+27,Bar,Montenegro,military facility,3,24,military,0,,19.09,42.1
+28,Barajevo,Serbia,military units,5,11,,1,military,20.37,44.61
+29,Baric,Serbia,industry,4,17,factory,0,,20.25,44.66
+30,Baric,Serbia,military units,4,19,,0,,20.25,44.66
+31,Baric,Serbia,industry,5,11,factory,0,,20.25,44.66
+32,Baric,Serbia,industry,5,20,factory,0,,20.25,44.66
+33,Batajnica,Serbia,military facility,3,24,airport,0,,20.25,44.93
+34,Batajnica,Serbia,military facility,3,27,airport,0,,20.25,44.93
+35,Batajnica,Serbia,military facility,3,28,airport,0,,20.25,44.93
+36,Batajnica,Serbia,military facility,3,29,,0,,20.25,44.93
+37,Batajnica,Serbia,military facility,4,7,airport,0,,20.25,44.93
+38,Batajnica,Serbia,civilian,4,17,,1,civilian,20.25,44.93
+39,Batajnica,Serbia,military facility,4,18,airport,0,,20.25,44.93
+40,Batajnica,Serbia,military units,4,20,,0,,20.25,44.93
+41,Batajnica,Serbia,military facility,4,22,airport,0,,20.25,44.93
+42,Batajnica,Serbia,military facility,5,3,airport,0,,20.25,44.93
+43,Batajnica,Serbia,military facility,5,7,airport,0,,20.25,44.93
+44,Batajnica,Serbia,military facility,5,13,airport,0,,20.25,44.93
+45,Batajnica,Serbia,military facility,5,15,airport,0,,20.25,44.93
+46,Batajnica,Serbia,military units,5,16,,0,,20.25,44.93
+47,Batajnica,Serbia,military facility,5,17,airport,0,,20.25,44.93
+48,Batajnica,Serbia,military facility,5,20,airport,0,,20.25,44.93
+49,Batajnica,Serbia,military facility,5,23,airport,0,,20.25,44.93
+50,Batajnica,Serbia,military facility,5,25,airport,0,,20.25,44.93
+51,Batajnica,Serbia,military units,5,27,,0,,20.25,44.93
+52,Batajnica,Serbia,military facility,5,28,airport,0,,20.25,44.93
+53,Batajnica,Serbia,military facility,5,29,airport,0,,20.25,44.93
+54,Batajnica,Serbia,military facility,5,31,airport,0,,20.25,44.93
+55,Batajnica,Serbia,military facility,6,4,airport,0,,20.25,44.93
+56,Batajnica,Serbia,military units,6,8,,0,,20.25,44.93
+57,Becic,Kosovo,military units,4,18,,1,military,20.89,42.75
+58,Belacevac,Kosovo,industry,3,24,factory,0,,21.02,42.63
+59,Belacevac,Kosovo,industry,4,19,factory,2,military,21.02,42.63
+60,Belacevac,Kosovo,military units,4,30,,0,,21.02,42.63
+61,Belacevac,Kosovo,military units,5,19,,0,,21.02,42.63
+62,"Belgrade, Aberdareva 1",Serbia,communications,4,23,,17,civilian,20.47,44.81
+63,"Belgrade, Bircaninova",Serbia,military facility,4,30,police,0,,20.46,44.8
+64,"Belgrade, Generalstab",Serbia,military facility,4,30,,1,police/civilian,20.46,44.8
+65,"Belgrade, Generalstab",Serbia,military facility,5,7,,0,,20.46,44.8
+66,"Belgrade, KBC Dragisa Misovic",Serbia,military facility,4,28,,1,military,20.46,44.78
+67,"Belgrade, KBC Dragisa Misovic",Serbia,civilian,5,20,hospital,11,civilian/military,20.46,44.78
+68,"Belgrade, Maksima Gorkog 57",Serbia,civilian,4,30,,0,,20.48,44.79
+69,"Belgrade, MIP",Serbia,civilian,5,7,,0,,20.46,44.81
+70,"Belgrade, Nemanjina 9",Serbia,government,4,9,,0,,20.46,44.81
+71,"Belgrade, Takovska 10",Serbia,communications,4,23,,0,,20.47,44.81
+72,"Belgrade, Usicka 15",Serbia,communications,4,22,,0,,20.45,44.78
+73,"Belgrade, Vardarska 12",Serbia,civilian,4,30,,0,,20.48,44.8
+74,"Belgrade, Vracar",Serbia,military units,4,30,,0,,20.47,44.8
+75,Beli Drim,Kosovo,infrastructure,6,3,bridge,0,,20.65,42.25
+76,"Belo Polje, Pec",Kosovo,military units,3,30,,2,military,20.29,42.64
+77,"Belo Polje, Pec",Kosovo,military facility,4,7,military,0,,20.29,42.64
+78,"Belo Polje, Pec",Kosovo,military units,4,30,,0,,20.29,42.64
+79,"Belo Polje, Pec",Kosovo,military units,5,29,,0,,20.29,42.64
+80,Besanijska kosa,Serbia,infrastructure,5,31,grid,0,,20.38,44.82
+81,Beska,Serbia,infrastructure,4,1,bridge,0,,20.08,45.17
+82,Beska,Serbia,infrastructure,4,29,bridge,0,,20.08,45.17
+83,Besna Kobila,Serbia,communications,6,2,relay,0,,22.23,42.53
+84,Besnik,Montenegro,military units,3,26,civilian,1,civilian,20.26,42.88
+85,Biljanovac,Serbia,infrastructure,4,29,bridge,0,,20.66,43.41
+86,Biljanovac,Serbia,infrastructure,5,17,bridge,0,,20.66,43.41
+87,"Biljanovac, most",Serbia,infrastructure,4,4,bridge,0,,20.65,43.41
+88,"Biljanovac, most",Serbia,infrastructure,4,11,bridge,0,,20.65,43.41
+89,"Biljanovac, most",Serbia,infrastructure,4,12,bridge,0,,20.65,43.41
+90,"Biljanovac, most",Serbia,infrastructure,4,13,bridge,0,,20.65,43.41
+91,"Biljanovac, most",Serbia,infrastructure,4,15,bridge,0,,20.65,43.41
+92,"Biljanovac, most",Serbia,infrastructure,5,29,bridge,0,,20.65,43.41
+93,Bistrasin,Kosovo,military units,4,14,,44,civilian,20.51,42.35
+94,"Bistrica, most preko Lima",Serbia,infrastructure,4,14,bridge,0,,19.65,43.47
+95,Bitinje,Kosovo,military units,5,27,,0,,21.03,42.26
+96,Bivolje,Serbia,infrastructure,5,2,bridge,0,,21.35,43.59
+97,Bogatic,Serbia,military units,4,30,,2,military,19.48,44.83
+98,Bogutovac,Serbia,industry,4,3,refinery,0,,20.55,43.65
+99,Bogutovac,Serbia,industry,4,7,refinery,0,,20.55,43.65
+100,Bogutovac,Serbia,military units,4,19,,0,,20.55,43.65
+101,Bogutovac,Serbia,military units,4,22,,0,,20.55,43.65
+102,Bogutovac,Serbia,industry,4,23,refinery,0,,20.55,43.65
+103,Bogutovac,Serbia,industry,4,25,refinery,0,,20.55,43.65
+104,Bogutovac,Serbia,industry,5,1,refinery,0,,20.55,43.65
+105,Bogutovac,Serbia,industry,5,8,bridge/refinery,0,,20.55,43.65
+106,Bogutovac,Serbia,industry,5,12,refinery,0,,20.55,43.65
+107,Bogutovac,Serbia,industry,5,17,refinery,0,,20.55,43.65
+108,Bogutovac,Serbia,industry,5,17,refinery,0,,20.55,43.65
+109,Boljevac,Serbia,military units,4,16,,0,,21.95,43.83
+110,Boljevac,Serbia,military units,5,15,,0,,21.96,43.82
+111,Boljevac,Serbia,military units,5,30,,0,,21.95,43.83
+112,"Boljevacka suma, Obrenovac",Serbia,infrastructure,5,25,grid,0,,20.22,44.72
+113,"Boljevacka suma, Obrenovac",Serbia,infrastructure,5,28,grid,0,,20.22,44.72
+114,"Boljevacka suma, Obrenovac",Serbia,infrastructure,5,31,grid,0,,20.22,44.72
+115,Bor,Serbia,industry,5,15,"refinery - 1, plant - 2",0,,22.11,44.08
+116,Bor,Serbia,industry,5,16,factory,0,,22.11,44.08
+117,Bor,Serbia,civilian,5,17,,1,civilian,22.11,44.08
+118,Bor,Serbia,industry,5,21,refinery,0,,22.11,44.08
+119,Bor,Serbia,industry,5,22,factory,0,,22.11,44.08
+120,Bor,Serbia,industry,5,26,refinery,0,,22.11,44.08
+121,Bor,Serbia,industry,5,27,refinery,0,,22.11,44.08
+122,"Borca, Kraljevo",Serbia,military units,6,2,,0,,20.72,43.75
+123,Brabonjic,Kosovo,military units,6,8,,0,,20.79,42.84
+124,Brankovac,Serbia,military units,5,15,,0,,19.74,45.16
+125,Brankovac,Serbia,military units,6,4,,0,,19.74,45.16
+126,Bresje,Serbia,infrastructure,5,21,bridge,0,,21.26,43.94
+127,Brezna,Serbia,civilian,4,24,,0,,20.68,43.57
+128,Brvenica,Serbia,infrastructure,5,17,bridge,0,,20.6,43.35
+129,Brvenik,Serbia,infrastructure,4,26,bridge,0,,20.64,43.35
+130,Brvenik,Serbia,military units,4,30,,0,,20.64,43.35
+131,Brvenik,Serbia,military facility,5,30,,0,,20.64,43.35
+132,Brvenik,Serbia,infrastructure,5,31,bridge,1,military,20.64,43.35
+133,"Brvenik, most",Serbia,infrastructure,4,6,bridge,0,,20.64,43.35
+134,"Brvenik, most",Serbia,infrastructure,4,11,bridge,0,,20.64,43.35
+135,"Brvenik, most",Serbia,infrastructure,5,13,bridge,0,,20.64,43.35
+136,Bubanj Potok,Serbia,military units,4,9,,0,,20.55,44.72
+137,Bubanj Potok,Serbia,military units,5,26,,0,,20.55,44.72
+138,Bubanj Potok,Serbia,military units,5,30,,0,,20.55,44.72
+139,Bujanovac,Serbia,military units,4,20,,0,,21.77,42.46
+140,Bujanovac,Serbia,military units,5,15,,0,,21.77,42.46
+141,Bujanovac,Serbia,military units,5,19,,0,,21.77,42.46
+142,Butovacki breg,Kosovo,military units,6,2,,0,,21.23,42.66
+143,Cacak,Serbia,military units,3,26,,0,,20.33,43.89
+144,Cacak,Serbia,industry,3,27,factory,0,,20.34,43.88
+145,Cacak,Serbia,industry,3,29,factory,0,,20.34,43.88
+146,Cacak,Serbia,industry,3,30,factory,0,,20.34,43.88
+147,Cacak,Serbia,industry,4,4,factory,2,civilian,20.34,43.88
+148,Cacak,Serbia,industry,4,6,factory,0,,20.34,43.88
+149,Cacak,Serbia,industry,4,13,factory,0,,20.34,43.88
+150,Cacak,Serbia,industry,5,10,factory,5,civilian,20.34,43.88
+151,Cacak,Serbia,industry,5,15,factory,0,,20.34,43.88
+152,Cacak,Serbia,industry,5,17,factory,0,,20.34,43.88
+153,Cajetina,Serbia,military units,5,26,,0,,19.71,43.75
+154,Camurlija,Serbia,military units,3,31,,1,military,21.84,43.37
+155,Cekavica,Serbia,civilian,5,27,,2,civilian,21.84,42.94
+156,Cenej,Serbia,military units,3,28,,3,military,19.8,45.37
+157,Cenovac,Serbia,civilian,5,29,,2,civilian,21.84,42.96
+158,Cer,Serbia,communications,4,16,,0,,19.48,44.6
+159,Cer,Serbia,communications,4,16,,0,,19.48,44.6
+160,Cer,Serbia,communications,5,1,,0,,19.48,44.6
+161,Cer,Serbia,communications,5,20,relay,0,,19.48,44.6
+162,Cerovo,Serbia,military units,6,6,,0,,21.49,43.63
+163,Cigota,Serbia,military units,4,20,,0,,19.77,43.65
+164,Cigota,Serbia,military units,4,27,,0,,19.77,43.65
+165,Conoplja,Serbia,industry,4,7,refinery,0,,19.25,45.8
+166,Conoplja,Serbia,industry,4,7,refinery,0,,19.25,45.8
+167,Conoplja,Serbia,industry,4,8,refinery,0,,19.25,45.8
+168,Conoplja,Serbia,industry,4,12,refinery,0,,19.25,45.8
+169,Conoplja,Serbia,industry,5,24,refinery,0,,19.25,45.8
+170,Cot,Serbia,military units,6,4,,0,,19.75,45.18
+171,Crmljane,Kosovo,military facility,4,7,,1,military,20.48,42.47
+172,Crni Lug,Serbia,military units,5,31,,1,military,21.88,42.47
+173,Crni Vrh,Serbia,communications,4,6,,0,,22.58,43.41
+174,Crni Vrh,Serbia,communications,4,23,,0,,22.58,43.41
+175,Crni Vrh,Serbia,communications,5,8,,0,,22.58,43.41
+176,Crni Vrh,Serbia,communications,5,26,relay,0,,22.58,43.41
+177,Crni Vrh,Serbia,communications,5,28,relay,0,,22.58,43.41
+178,Crni Vrh,Serbia,communications,5,30,relay,0,,22.58,43.41
+179,Crni Vrh,Serbia,communications,6,2,relay,0,,22.58,43.41
+180,Crnoljevo,Kosovo,military units,5,11,,0,,20.96,42.46
+181,Crnoljevo,Kosovo,military units,5,15,,3,police,20.96,42.46
+182,Crveni cot,Serbia,communications,4,6,,0,,19.7,45.15
+183,Crveno selo,Serbia,communications,5,1,,0,,19.63,46.08
+184,Cukarica,Serbia,industry,5,17,refinery,0,,20.41,44.79
+185,Cuprija,Serbia,civilian,4,8,,1,civilian,21.37,43.93
+186,Cuprija,Serbia,military units,4,27,,0,,21.37,43.93
+187,Cuprija,Serbia,industry,5,27,farm,0,,21.37,43.93
+188,Cuprija,Serbia,military units,5,29,,0,,21.37,43.93
+189,"Cvetke, Kraljevo",Serbia,civilian,3,25,,0,,20.63,43.81
+190,Danilovgrad,Montenegro,military facility,3,24,military,1,military,20.43,42.38
+191,Debrc,Serbia,military units,4,14,,1,military,19.91,44.63
+192,Decani,Kosovo,military units,4,27,,0,,20.29,42.54
+193,Decani,Kosovo,military units,5,7,,0,,20.29,42.54
+194,Decani,Kosovo,military units,5,8,,0,,20.29,42.54
+195,Decani,Kosovo,military units,5,9,,0,,20.29,42.54
+196,Decani,Kosovo,military units,5,12,,0,,20.29,42.54
+197,Decani,Kosovo,military units,5,31,,0,,20.29,42.54
+198,Decani,Kosovo,military units,6,8,,0,,20.29,42.54
+199,"Dedina, Krusevac",Serbia,infrastructure,4,13,bridge,0,,21.36,43.59
+200,Deliblatska pescara,Serbia,military units,5,13,,0,,21.08,44.88
+201,Devet Jugovica,Kosovo,industry,4,6,refinery,0,,21.14,42.72
+202,Divcibare,Serbia,military units,4,18,,0,,19.99,44.1
+203,Divcibare,Serbia,military units,5,27,,0,,19.99,44.1
+204,Djakovica,Kosovo,military units,3,26,military,0,,20.43,42.38
+205,Djakovica,Kosovo,military units,3,28,military,0,,20.43,42.38
+206,Djakovica,Kosovo,military facility,4,10,civilian,1,military,20.43,42.38
+207,Djakovica,Kosovo,military units,4,14,,1,civilian,20.43,42.38
+208,Djakovica,Kosovo,military units,4,22,,6,civilian,20.43,42.38
+209,Djakovica,Kosovo,military units,5,13,,0,,20.43,42.38
+210,Djakovica,Kosovo,military units,5,18,,0,,20.43,42.38
+211,Djakovica,Kosovo,military units,5,21,,1,civilian,20.43,42.38
+212,Djakovica,Kosovo,military units,5,27,,0,,20.43,42.38
+213,Djelekare,Kosovo,military units,5,26,,0,,21.43,42.35
+214,Djunis,Serbia,infrastructure,5,2,bridge,0,,21.51,43.59
+215,Dobrevo,Kosovo,military units,5,21,,0,,21.09,42.6
+216,Dobricevo,Serbia,industry,6,2,farm,0,,21.36,44.99
+217,Dobricevo,Serbia,military units,6,8,,0,,21.36,44.99
+218,Donja Bistrica,Serbia,infrastructure,4,20,bridge,0,,19.66,43.47
+219,Donja Budriga,Kosovo,military units,6,6,,1,civilian,21.45,42.41
+220,Donja Srbica,Kosovo,military units,4,14,,0,,20.7,42.29
+221,"Donja Vapa, Sjenica",Serbia,civilian,5,17,,0,,20.03,43.3
+222,Donje Obrinje,Kosovo,military units,5,18,,0,,20.76,42.64
+223,Donje Sinkovce,Serbia,military units,5,31,,0,,21.91,42.98
+224,Donji Zagarac,Montenegro,military units,4,15,,0,,19.11,42.5
+225,Dragas,Kosovo,various,5,16,"TV relay, sheep farm, medical plant factory",0,,20.64,42.06
+226,Dragas,Kosovo,military units,5,29,,2,military,20.64,42.06
+227,Dragas,Kosovo,military facility,5,31,bunker,0,,20.64,42.06
+228,Drakcici,Serbia,military units,4,16,,0,,20.59,43.73
+229,Drasevac,Serbia,civilian,5,31,house,1,civilian,20.23,44.58
+230,Drmno,Serbia,industry,5,23,plant,0,,21.22,44.72
+231,Drobes,Kosovo,military units,5,29,,0,,21.34,42.32
+232,Dubinje,Serbia,military facility,4,6,airport,0,,20.05,43.27
+233,Dubrava,Kosovo,government,5,19,prison,3,military,20.53,42.77
+234,Dubrava,Kosovo,government,5,21,prison,30,civilian/military,20.53,42.77
+235,Dubrava,Kosovo,military units,5,29,,0,,20.53,42.77
+236,Dulje,Kosovo,military units,4,22,,4,military,20.89,42.41
+237,Dunavo,Kosovo,military units,5,30,,2,military,21.54,42.28
+238,Feketic,Vojvodina,military units,5,17,,1,military,19.7,45.66
+239,Fshaj,Kosovo,military units,4,14,,1,civilian,20.54,42.35
+240,Futog,Vojvodina,military units,3,29,,0,,19.71,45.24
+241,Gadsin Han,Serbia,communications,5,24,relay,0,,22.03,43.22
+242,Gazimestan,Kosovo,military units,3,29,,0,,21.13,42.69
+243,Gazimestan,Kosovo,military units,4,23,,1,military,21.13,42.69
+244,Glava Zete,Montenegro,military units,4,15,,0,,19,42.67
+245,Glava Zete,Montenegro,military units,4,16,,0,,19,42.67
+246,Glodjane,Kosovo,military units,6,6,,1,police,20.36,42.51
+247,Glogovac,Kosovo,military units,3,25,police,1,police,20.89,42.63
+248,Glogovac,Kosovo,military units,5,24,,0,,20.89,42.63
+249,Glumac,Serbia,civilian,5,2,,0,,20.02,43.86
+250,Glusci,Serbia,military units,5,1,,0,,19.55,44.89
+251,Gnjilane,Kosovo,military units,3,26,,0,,21.48,42.47
+252,Gnjilane,Kosovo,military units,4,7,,0,,21.48,42.47
+253,Gnjilane,Kosovo,military units,4,30,,0,,21.48,42.47
+254,Gnjilane,Kosovo,military units,5,17,,0,,21.48,42.47
+255,Gnjilane,Kosovo,industry,5,19,factory,5,civilian,21.48,42.47
+256,Gobelja,Serbia,communications,4,23,,0,,20.81,43.32
+257,Gobelja,Serbia,communications,5,17,,0,,20.81,43.32
+258,Goles,Serbia,communications,4,10,,0,,22.33,42.33
+259,Goles,Serbia,military units,4,16,,0,,22.33,42.33
+260,Goles,Serbia,military units,4,19,,0,,22.33,42.33
+261,Goles,Serbia,military units,5,5,,0,,22.33,42.33
+262,Goles,Serbia,military units,5,8,,0,,22.33,42.33
+263,Goles,Serbia,military units,5,13,,0,,22.33,42.33
+264,"Golubovci, aerodrom",Montenegro,military facility,3,24,airport,0,,19.25,42.36
+265,"Golubovci, aerodrom",Montenegro,military units,3,26,military,0,,19.25,42.36
+266,"Golubovci, aerodrom",Montenegro,military facility,3,29,airport,0,,19.25,42.36
+267,"Golubovci, aerodrom",Montenegro,military facility,4,7,airport,0,,19.25,42.36
+268,"Golubovci, aerodrom",Montenegro,military facility,4,15,airport,1,military,19.25,42.36
+269,"Golubovci, aerodrom",Montenegro,military units,4,16,,0,,19.25,42.36
+270,"Golubovci, aerodrom",Montenegro,military facility,4,29,airport,0,,19.25,42.36
+271,Gornja Budrika,Kosovo,military units,5,26,,3,military,21.4,42.38
+272,Gornje Ljupce,Kosovo,military units,5,11,,0,,21.09,42.85
+273,Gornje Obrinje,Kosovo,military facility,4,8,,8,military,20.76,42.64
+274,Gornje Selo,Kosovo,infrastructure,5,29,tunnel,1,civilian,20.92,42.18
+275,Gornji Milanovac,Serbia,industry,4,20,factory,0,,20.46,44.02
+276,Gornji Neradovac,Serbia,civilian,5,31,,1,civilian,21.87,42.51
+277,Gornji Sibovac,Kosovo,military units,4,28,,1,civilian,21.19,42.85
+278,Gorosup,Kosovo,military facility,6,1,bunker,1,military,20.54,42.18
+279,Gorusup,Kosovo,military units,4,15,,1,military,20.54,42.18
+280,Gorusup,Kosovo,military units,5,27,,1,military,20.54,42.18
+281,Gracanica,Kosovo,military units,4,7,,0,,21.19,42.6
+282,Gracanica,Kosovo,military units,4,12,,0,,21.19,42.6
+283,Gracanica,Kosovo,military units,4,14,,0,,21.19,42.6
+284,Gradis,Kosovo,military units,4,14,,0,,20.53,42.35
+285,Grcina,Kosovo,military units,5,9,,1,military,20.48,42.3
+286,Grdelica,Serbia,military units,4,7,,0,,22.06,42.89
+287,Grdelica,Serbia,infrastructure,4,12,bridge,12,civilian,22.06,42.89
+288,Grdelica,Serbia,infrastructure,4,12,bridge,0,,22.06,42.89
+289,Grlic,Montenegro,military units,3,26,,0,,19.22,43.47
+290,"Grmija, Pristina",Kosovo,military units,3,30,civilian,0,,21.24,42.66
+291,"Grmija, Pristina",Kosovo,military units,4,20,civilian,0,,21.24,42.66
+292,"Grmija, Pristina",Kosovo,military units,5,6,,0,,21.24,42.66
+293,"Grmija, Pristina",Kosovo,industry,5,27,depot,0,,21.24,42.66
+294,"Grmija, Pristina",Kosovo,communications,6,2,relay,0,,21.24,42.66
+295,Grocka,Belgrade,communications,5,11,,0,,20.72,44.67
+296,"Gucevo, Loznica",Serbia,infrastructure,4,5,bridge,0,,19.17,44.47
+297,"Gucevo, Loznica",Serbia,military units,4,24,,0,,19.17,44.47
+298,"Gucevo, Loznica",Serbia,communications,4,25,,0,,19.17,44.47
+299,HE Bistrica,Serbia,industry,4,14,factory,0,,19.65,43.47
+300,Herceg Novi,Montenegro,military facility,5,28,navy,0,,18.53,42.45
+301,Horgos,Vojvodina,infrastructure,5,11,bridge,0,,19.92,46.15
+302,"Hotel Nais, Nis",Serbia,infrastructure,5,28,motorway,0,,21.81,43.38
+303,Hrtkovci,Serbia,military units,6,8,,1,military,19.77,44.88
+304,Ibarska Slatina,Kosovo,infrastructure,3,30,bridge,0,,20.83,43.05
+305,Iriski Venac,Vojvodina,military units,3,26,,0,,19.83,45.15
+306,Iriski venac,Vojvodina,communications,4,21,,0,,19.83,45.15
+307,Iriski Venac,Vojvodina,military units,4,22,,0,,19.83,45.15
+308,Iriski Venac,Vojvodina,military units,4,27,,0,,19.83,45.15
+309,Iriski Venac,Vojvodina,military units,4,30,,0,,19.83,45.15
+310,Iriski Venac,Vojvodina,military units,5,20,,0,,19.83,45.15
+311,Iriski Venac,Vojvodina,communications,5,22,relay,0,,19.83,45.15
+312,Iriski Venac,Vojvodina,military units,5,23,,0,,19.83,45.15
+313,Iriski Venac,Vojvodina,military units,5,26,,0,,19.83,45.15
+314,Iriski Venac,Vojvodina,communications,5,29,relay,0,,19.83,45.15
+315,Iriski Venac,Vojvodina,military units,5,30,,0,,19.83,45.15
+316,Iriski Venac,Vojvodina,communications,6,2,relay,0,,19.83,45.15
+317,"Izvor, Pirot",Serbia,military units,4,14,,0,,22.64,43.15
+318,"Jablanica, Prizren",Kosovo,military units,5,1,,2,civilian,20.76,42.17
+319,Jagodina,Serbia,infrastructure,5,15,"motorway, bridge",0,,21.29,43.98
+320,Jagodina,Serbia,military units,5,29,,0,,21.22,43.98
+321,Jagodnja,Serbia,communications,4,15,,0,,19.29,44.34
+322,Jajinci,Belgrade,military facility,3,25,,0,,20.5,44.75
+323,Jakovo,Belgrade,military units,3,30,,0,,20.28,44.74
+324,Jakovo,Belgrade,military units,3,31,,0,,20.28,44.74
+325,Jalovik,Serbia,civilian,5,18,farm,0,,19.83,44.6
+326,Jamena,Vojvodina,military facility,5,26,bunker,1,military,19.06,44.89
+327,Janjevo,Kosovo,military units,3,30,,0,,21.24,42.57
+328,Jarak,Vojvodina,military units,4,29,,0,,19.76,44.92
+329,Jarcujak,Serbia,military facility,4,5,baracks,0,,20.62,43.74
+330,Jarcujak,Serbia,military facility,5,11,baracks,0,,20.62,43.74
+331,Jarcujak,Serbia,military facility,5,29,,0,,20.62,43.74
+332,"Jasika, most",Serbia,infrastructure,4,15,bridge,0,,21.3,43.61
+333,Jastrebac,Serbia,communications,4,10,,0,,21.32,43.41
+334,Jelasnica,Serbia,civilian,3,30,,0,,22.06,43.29
+335,Jelav,Serbia,military units,4,4,,3,military,19.26,44.62
+336,Jerinja,Kosovo,infrastructure,4,30,bridge,0,,20.62,42.62
+337,Jezgrovici,Serbia,infrastructure,4,4,bridge,0,,20.44,42.96
+338,Junik,Kosovo,military units,5,8,,1,military,20.27,42.48
+339,Kacanik,Kosovo,military units,5,16,,0,,21.24,42.23
+340,Kacanik,Kosovo,military units,5,29,,0,,21.24,42.23
+341,Kalimanici,Serbia,civilian,5,3,,1,civilian,20.42,44.08
+342,Kaludjerske bare,Serbia,military units,6,2,,0,,19.52,43.91
+343,"Kamcatska 23, Zvezdara",Belgrade,civilian,6,8,house,0,,20.52,44.81
+344,Kamena Glava,Kosovo,military units,4,18,,2,military,21.22,42.34
+345,Katrga,Serbia,civilian,3,25,,0,,20.55,43.83
+346,Kikinda,Vojvodina,military facility,6,1,baracks,0,,20.43,45.8
+347,Kisac,Vojvodina,military units,3,29,,0,,19.71,45.36
+348,Kisna reka,Kosovo,military units,5,6,,1,civilian,20.88,42.55
+349,Klecka,Kosovo,military units,6,2,,4,civilian/military,20.86,42.49
+350,Klina,Kosovo,military units,4,2,,5,military,20.57,42.62
+351,Klina,Kosovo,military units,4,4,,3,military,20.57,42.62
+352,Klina,Kosovo,military units,5,16,,0,,20.57,42.62
+353,Kljajicevo,Serbia,industry,4,7,refinery,0,,19.26,45.79
+354,Kljajicevo,Serbia,industry,6,3,refinery,0,,19.26,45.79
+355,Knic,Serbia,military facility,4,13,reservoir,0,,20.84,44.02
+356,Kodre,Montenegro,military units,4,15,,0,,19.23,41.93
+357,Kopaonik,Serbia,military units,4,15,,1,police,20.83,43.27
+358,"Kopaonik, Baciste",Serbia,civilian,4,13,hotel,0,,20.8,43.28
+359,Koretin,Kosovo,military units,5,11,civilian,0,,21.6,42.56
+360,Koretiste,Kosovo,military units,3,28,,1,military,21.43,42.48
+361,Koretiste,Kosovo,military units,3,29,,0,,21.43,42.48
+362,Korisa,Kosovo,military units,5,13,,77,civilian,20.8,42.26
+363,Korisa,Kosovo,military units,5,14,,1,civilian,20.8,42.26
+364,Korman,Serbia,communications,5,1,relay,0,,20.98,44.05
+365,Kosanica,Serbia,infrastructure,4,27,bridge,0,,21.24,43.06
+366,Kosare,Kosovo,military units,5,11,bunker,17,military,20.2,42.45
+367,Kosare,Kosovo,military facility,5,13,bunker,2,military,20.2,42.45
+368,Kosare,Kosovo,military facility,5,14,bunker,1,military,20.2,42.45
+369,Kosare,Kosovo,military facility,5,21,bunker,5,military,20.2,42.45
+370,Kosare,Kosovo,military facility,6,6,bunker,1,military,20.2,42.45
+371,Kosmaj,Belgrade,military units,5,8,,0,,20.57,44.46
+372,Kosmaj,Belgrade,military units,5,21,,0,,20.57,44.46
+373,Kosovo,Kosovo,military units,4,20,,1,military,21.17,42.67
+374,Kosovo Polje,Kosovo,military units,4,11,,0,,21.09,42.64
+375,Kosovska Mitrovica,Kosovo,military units,4,15,,0,,20.87,42.88
+376,Kosovska Mitrovica,Kosovo,military units,5,2,,2,police,20.87,42.88
+377,Kosovska Mitrovica,Kosovo,military units,5,15,,0,,20.87,42.88
+378,Kostolac,Serbia,infrastructure,5,13,plant,0,,21.21,44.73
+379,Kostolac,Serbia,industry,5,21,plant,0,,21.21,44.73
+380,Kotes,Belgrade,civilian,6,8,house,0,,20.47,44.85
+381,Kotes,Belgrade,military units,6,8,,0,,20.47,44.85
+382,Kovacica,Vojvodina,industry,5,8,factory,0,,20.62,45.12
+383,Kovilovo,Belgrade,industry,5,15,refinery,0,,20.36,44.91
+384,Kovin,Vojvodina,infrastructure,5,11,bridge,0,,20.95,44.7
+385,"Kozarica, Dimitrovgrad",Serbia,communications,5,30,relay,0,,22.78,43.02
+386,"Kozarica, Dimitrovgrad",Serbia,communications,6,2,relay,0,,22.78,43.02
+387,Kragujevac,Serbia,military facility,3,24,baracks,0,,20.84,44.02
+388,Kragujevac,Serbia,industry,4,15,factory,0,,20.84,44.02
+389,Kragujevac,Serbia,military units,5,8,,0,,20.84,44.02
+390,Kragujevac,Serbia,military facility,5,14,baracks,0,,20.84,44.02
+391,Kragujevac,Serbia,civilian,5,17,monument,0,,20.84,44.02
+392,Kragujevac,Serbia,industry,5,25,factory,0,,20.84,44.02
+393,Kragujevac,Serbia,military facility,5,28,airport,0,,20.84,44.02
+394,Kragujevac,Serbia,communications,5,30,TV station,0,,20.84,44.02
+395,"Kragujevac, Crni Vrh",Serbia,communications,4,8,relay,0,,21.11,44.01
+396,"Kragujevac, Zastava",Serbia,industry,4,9,factory,0,,20.91,44.01
+397,"Kragujevac, Zastava",Serbia,industry,4,12,factory,0,,20.91,44.01
+398,"Kragujevac, Zastava",Serbia,industry,4,12,factory,0,,20.91,44.01
+399,Kraljevo,Serbia,military units,4,15,,0,,20.69,43.72
+400,Kraljevo,Serbia,military units,4,20,,0,,20.69,43.72
+401,Kraljevo,Serbia,military units,4,20,,0,,20.69,43.72
+402,Krcmar,Serbia,military units,4,30,,0,,19.98,44.16
+403,Kremna,Serbia,military units,6,4,military,0,,19.58,43.85
+404,Krnjaca,Belgrade,military units,4,23,,0,,20.49,44.85
+405,Krnjaca,Belgrade,military units,4,29,,0,,20.49,44.85
+406,Krusevac,Serbia,infrastructure,4,23,bridge,0,,21.32,43.58
+407,"Krusevac, 14. oktobar",Serbia,industry,4,12,factory,0,,21.32,43.59
+408,"Krusevac, 14. oktobar",Serbia,industry,4,12,factory,0,,21.32,43.6
+409,"Krusevac, 14. oktobar",Serbia,industry,4,15,factory,0,,21.32,43.59
+410,"Krusevac, most na Rasini",Serbia,infrastructure,4,13,bridge,0,,21.35,43.55
+411,"Krusevac, Trajal",Serbia,civilian,5,14,,1,civilian,21.36,43.58
+412,Kula,Serbia,communications,6,3,relay,0,,19.53,45.61
+413,Kurilo,Montenegro,military units,4,15,,0,,19.85,43.04
+414,Kurilo,Montenegro,military units,4,16,,0,,19.85,43.04
+415,Kursumlija,Serbia,military facility,3,24,,11,military,21.26,43.14
+416,Kursumlija,Serbia,military units,4,20,,0,,21.26,43.14
+417,Kursumlija,Serbia,infrastructure,5,11,bridge,0,,21.29,43.14
+418,Kursumlija,Serbia,military units,5,14,,0,,21.26,43.14
+419,Kursumlija,Serbia,infrastructure,5,15,bridge,0,,21.29,43.14
+420,Kursumlija,Serbia,military units,5,22,,0,,21.26,43.14
+421,Kursumlija,Serbia,military units,5,26,,0,,21.26,43.14
+422,Kursumlija,Serbia,military units,5,27,,0,,21.26,43.14
+423,Kursumlija,Serbia,military units,6,2,,0,,21.25,43.12
+424,Kursumlija,Serbia,military units,6,3,,0,,21.25,43.12
+425,Kursumlija,Serbia,military units,6,6,,0,,21.26,43.14
+426,Kusnin,Kosovo,military units,5,5,,2,military,20.53,42.28
+427,Kutlovac,Serbia,communications,5,13,,0,,21.24,43.25
+428,Ladjevac,Serbia,military facility,4,28,airport,0,,20.59,43.82
+429,Ladjevci,Serbia,military facility,3,24,airport,0,,20.59,43.82
+430,Ladjevci,Serbia,military facility,3,25,airport,0,,20.59,43.82
+431,Ladjevci,Serbia,military facility,4,7,airport,0,,20.59,43.82
+432,Ladjevci,Serbia,military facility,4,10,airport,0,,20.59,43.82
+433,Ladjevci,Serbia,military facility,4,13,airport,0,,20.59,43.82
+434,Ladjevci,Serbia,military facility,4,16,airport,0,,20.59,43.82
+435,Ladjevci,Serbia,military facility,4,21,airport,0,,20.59,43.82
+436,Ladjevci,Serbia,military facility,4,24,airport,0,,20.59,43.82
+437,Ladjevci,Serbia,military facility,4,27,airport,0,,20.59,43.82
+438,Ladjevci,Serbia,military facility,5,1,airport,0,,20.59,43.82
+439,Ladjevci,Serbia,military units,5,3,,0,,20.59,43.82
+440,Ladjevci,Serbia,military units,5,3,,0,,20.59,43.82
+441,Ladjevci,Serbia,military facility,5,5,airport,0,,20.59,43.82
+442,Ladjevci,Serbia,military facility,5,7,airport,0,,20.59,43.82
+443,Ladjevci,Serbia,military facility,5,15,airport,0,,20.59,43.82
+444,Ladrovac,Kosovo,military units,6,4,,1,military,20.81,42.5
+445,Laplje Selo,Kosovo,military units,5,1,,1,military,21.13,42.59
+446,Lebane,Serbia,military units,5,7,,0,,21.74,42.92
+447,Ledine,Belgrade,military units,3,29,,0,,20.34,44.8
+448,Leposavic,Kosovo,infrastructure,3,30,bridge,0,,20.8,43.1
+449,Leskovac,Serbia,military facility,3,28,,0,,21.94,42.99
+450,Leskovac,Serbia,industry,3,29,factory,0,,21.94,42.99
+451,Leskovac,Serbia,military units,4,19,,0,,21.94,42.99
+452,Leskovac,Serbia,military units,4,24,,0,,21.94,42.99
+453,Leskovac,Serbia,infrastructure,5,10,bridge,0,,21.94,42.99
+454,Leskovac,Serbia,military units,5,18,,0,,21.94,42.99
+455,Leskovac,Serbia,military units,5,21,,0,,21.94,42.99
+456,"Leskovac, Knic",Serbia,military units,4,2,,0,,20.74,43.84
+457,"Leskovac, Knic",Serbia,military units,5,12,,0,,20.74,43.84
+458,"Leskovac, Knic",Serbia,military units,5,15,,0,,20.74,43.84
+459,Lestane,Belgrade,infrastructure,5,31,grid,0,,20.56,44.73
+460,Likovac,Kosovo,military facility,4,8,,1,military,20.77,42.67
+461,Likovac,Kosovo,military units,5,18,,0,,20.77,42.67
+462,Lipe,Serbia,civilian,5,15,house,0,,21,44.64
+463,Lipljan,Kosovo,civilian,5,5,civilian,0,,21.12,42.52
+464,Lipljan,Kosovo,military units,5,29,,0,,21.12,42.52
+465,Lipovicka suma,Belgrade,military facility,3,26,,0,,20.39,44.64
+466,Lipovicka suma,Belgrade,military facility,4,3,,0,,20.39,44.64
+467,Lipovicka suma,Belgrade,military facility,5,1,,0,,20.39,44.64
+468,Lipovicka suma,Belgrade,military facility,5,17,baracks,0,,20.39,44.64
+469,Lipovicka suma,Belgrade,military facility,5,21,baracks,0,,20.39,44.64
+470,Lipovicka suma,Belgrade,military facility,6,2,baracks,0,,20.39,44.64
+471,Lisicji Cacak,Serbia,military units,5,15,,0,,20.45,44.94
+472,Livade,Kosovo,military units,3,30,,0,,20.99,42.44
+473,Livade,Kosovo,military units,5,11,,0,,20.99,42.44
+474,Ljubisda,Kosovo,military units,5,19,,0,,20.77,42.24
+475,Ljugbunar,Kosovo,military units,3,31,,2,military,20.43,42.42
+476,Ljutoglava,Kosovo,military units,4,30,,0,,20.78,42.28
+477,"Lola Utva, Pancevo",Serbia,industry,3,24,factory,0,,20.63,44.9
+478,"Lola Utva, Pancevo",Serbia,industry,3,27,factory,0,,20.63,44.9
+479,"Lola Utva, Pancevo",Serbia,industry,3,29,factory,0,,20.63,44.9
+480,"Lozane, Decani",Kosovo,civilian,4,15,monument,0,,20.28,42.52
+481,Loznica,Serbia,military facility,3,26,pilot shot down,1,military,19.17,44.47
+482,Loznica,Serbia,military units,4,4,,1,military,19.21,44.53
+483,"Lucani, Milan Blagojevic",Serbia,industry,4,5,factory,0,,20.15,43.85
+484,"Lucani, Milan Blagojevic",Serbia,industry,4,6,factory,0,,20.15,43.85
+485,"Lucani, Milan Blagojevic",Serbia,industry,4,6,factory,0,,20.15,43.85
+486,"Lucani, Milan Blagojevic",Serbia,industry,4,7,factory,0,,20.15,43.85
+487,"Lucani, Milan Blagojevic",Serbia,industry,4,8,factory,0,,20.15,43.85
+488,"Lucani, Milan Blagojevic",Serbia,industry,4,25,factory,0,,20.15,43.85
+489,Lukare,Serbia,military units,4,20,,0,,20.47,43.07
+490,Lukare,Serbia,military units,6,5,,0,,20.47,43.07
+491,Lukicevo,Vojvodina,infrastructure,5,27,railway,0,,20.49,45.34
+492,Lusane,Kosovo,infrastructure,5,1,bridge,42,civilian/military,21.72,43.48
+493,Lustica,Montenegro,military units,3,24,military,0,,18.59,42.4
+494,Lustica,Montenegro,military facility,5,30,navy,0,,18.59,42.4
+495,Macvanski Pricinovic,Serbia,military units,6,4,,0,,19.63,44.85
+496,Majevica,Vojvodina,military facility,3,29,,0,,19.8,45.26
+497,Makis,Belgrade,military units,5,22,,0,,20.37,44.77
+498,Makis,Belgrade,military units,5,26,,0,,20.37,44.77
+499,Makis,Belgrade,military units,5,28,,0,,20.37,44.77
+500,Makis,Belgrade,military units,5,31,,0,,20.37,44.77
+501,Mala Krusa,Kosovo,industry,4,6,refinery,0,,20.65,42.31
+502,Mala Vrbica,Serbia,military facility,3,24,,0,,20.65,44.46
+503,Mali Mokri Lug,Belgrade,military units,3,26,,0,,20.52,44.78
+504,"Mali sturac, Rudnik",Serbia,communications,6,7,relay,0,,20.52,44.13
+505,Malisevo,Kosovo,military units,3,28,,0,,20.74,42.48
+506,Mandjelos,Vojvodina,military units,5,23,,0,,19.53,45.09
+507,Mandjelos,Vojvodina,military units,5,24,,0,,19.53,45.09
+508,"Mavrijan, Ulcinj",Montenegro,military units,4,16,,0,,19.16,41.97
+509,Medjani,Serbia,military units,5,30,,0,,19.81,43.35
+510,Medjani,Vojvodina,military units,5,31,,0,,20.81,45.54
+511,Medvece,Kosovo,military units,4,30,,1,civilian,20.71,42.31
+512,Meje,Kosovo,military units,4,14,,20,civilian,20.39,42.39
+513,Merdare,Serbia,military units,4,10,,1,military,21.26,42.95
+514,Merdare,Serbia,military units,4,11,,4,civilian/military,21.26,42.95
+515,Mijalic,Kosovo,industry,5,29,factory,2,civilian,21,42.75
+516,Mijatovac,Serbia,infrastructure,5,8,bridge,0,,21.33,43.95
+517,Milesevo,Serbia,infrastructure,4,27,bridge,0,,19.7,43.37
+518,Miljaj,Kosovo,military units,6,8,,2,military,20.55,42.2
+519,Miljakovacka suma,Belgrade,military units,5,30,,0,,20.44,44.74
+520,Miljakovacka suma,Belgrade,military units,5,31,,0,,20.44,44.74
+521,"Mirovac, Podujevo",Kosovo,military units,4,11,,0,,21.26,42.91
+522,Mocare,Kosovo,military units,4,19,,2,civilian,21.6,42.59
+523,Mogila,Kosovo,military units,3,30,military,3,military,21.38,42.34
+524,Mokra Gora,Serbia,communications,4,19,,0,,19.5,43.79
+525,Mokra Gora,Serbia,communications,4,21,,0,,19.5,43.79
+526,"Mokra Gora, Zubin Potok",Kosovo,military units,5,21,,0,,20.52,42.85
+527,Morina,Kosovo,military units,4,29,,5,military,20.24,42.41
+528,"Mramor, Pristina",Kosovo,military units,5,5,,0,,21.28,42.66
+529,Mrcajevci,Serbia,civilian,5,11,,0,,20.53,43.87
+530,Mrcajevci,Serbia,military units,5,28,,0,,20.53,43.87
+531,Mrsac,Serbia,military units,4,15,,0,,20.59,43.78
+532,Mrsac,Serbia,military units,4,16,,0,,20.59,43.78
+533,Mrsac,Serbia,military units,4,21,,0,,20.59,43.78
+534,Mrsac,Serbia,military units,6,7,,0,,20.59,43.78
+535,"Murino, Plav",Montenegro,civilian,4,30,civilian,6,civilian,19.88,42.66
+536,"Murino, Plav",Montenegro,military units,5,11,refinery/airport,0,,19.88,42.66
+537,Nadalj,Vojvodina,military units,6,1,,2,military,19.92,45.51
+538,Negotin,Serbia,industry,5,6,refinery,0,,22.53,44.23
+539,Nekodim,Kosovo,military units,5,24,,0,,21.17,42.35
+540,"Nemic, Ljubovija",Serbia,communications,6,2,relay,0,,19.43,44.18
+541,Neradovac,Serbia,military units,5,31,,0,,21.87,42.51
+542,Nis,Serbia,military facility,3,28,airport,1,military,21.86,43.34
+543,Nis,Serbia,industry,4,5,factory,0,,21.87,43.32
+544,Nis,Serbia,civilian,4,7,,1,civilian,21.87,43.32
+545,Nis,Serbia,industry,4,15,factory,0,,21.87,43.32
+546,Nis,Serbia,industry,4,19,factory,1,civilian,21.87,43.32
+547,Nis,Serbia,industry,4,20,factory,0,,21.87,43.32
+548,Nis,Serbia,military units,4,23,,0,,21.87,43.32
+549,Nis,Serbia,military units,4,24,,0,,21.87,43.32
+550,Nis,Serbia,industry,4,25,factory,0,,21.87,43.32
+551,Nis,Serbia,military units,5,2,,0,,21.87,43.32
+552,Nis,Serbia,military units,5,3,,0,,21.87,43.32
+553,Nis,Serbia,industry,5,5,refinery,0,,21.87,43.34
+554,Nis,Serbia,military facility,5,6,airport,0,,21.86,43.34
+555,Nis,Serbia,civilian,5,7,,15,civilian,21.87,43.32
+556,Nis,Serbia,civilian,5,7,,0,,21.87,43.32
+557,Nis,Serbia,military facility,5,8,airport,0,,21.86,43.34
+558,Nis,Serbia,military facility,5,10,airport,0,,21.86,43.34
+559,Nis,Serbia,civilian,5,11,,2,civilian,21.87,43.32
+560,Nis,Serbia,industry,5,13,plant,0,,21.87,43.32
+561,Nis,Serbia,infrastructure,5,18,bridge,0,,21.87,43.32
+562,Nis,Serbia,military units,5,21,,0,,21.87,43.32
+563,Nis,Serbia,industry,5,23,plant,0,,21.87,43.32
+564,Nis,Serbia,industry,5,27,factory,0,,21.87,43.32
+565,Nis,Serbia,civilian,5,29,,2,civilian,21.87,43.32
+566,Nis,Serbia,industry,5,30,tobacco factory,0,,21.87,43.32
+567,Nogavac,Kosovo,military units,4,2,,1,civilian,20.64,42.34
+568,Nova Pazova,Vojvodina,civilian,5,8,,0,,20.2,44.95
+569,Novi Badovac,Kosovo,military units,3,30,,0,,21.21,42.59
+570,Novi Beograd,Serbia,military units,5,16,,0,,20.35,44.8
+571,Novi Beograd,Serbia,industry,5,27,factory,0,,20.35,44.8
+572,"Novi Beograd, Chinese Embassy",Serbia,civilian,5,7,,3,civilian,20.42,44.82
+573,"Novi Beograd, hotel Jugoslavija",Serbia,civilian,5,8,,1,military,20.42,44.83
+574,"Novi Beograd, toplana",Serbia,industry,4,4,factory,1,civilian,20.41,44.8
+575,"Novi Beograd, Usce",Serbia,communications,4,21,,0,,20.44,44.82
+576,"Novi Beograd, Usce",Serbia,communications,4,27,,0,,20.44,44.82
+577,Novi Pazar,Serbia,military units,4,24,,0,,20.5,43.14
+578,Novi Pazar,Serbia,military units,4,29,,0,,20.5,43.14
+579,Novi Pazar,Serbia,military units,5,1,,0,,20.5,43.14
+580,Novi Pazar,Serbia,civilian,5,31,building,11,civilian/military,20.5,43.14
+581,Novi Sad,Serbia,military units,3,26,,0,,19.78,45.27
+582,Novi Sad,Serbia,military units,3,30,,0,,19.78,45.27
+583,Novi Sad,Serbia,industry,4,5,refinery,0,,19.86,45.27
+584,Novi Sad,Serbia,industry,4,7,refinery,0,,19.86,45.27
+585,Novi Sad,Serbia,industry,4,12,refinery,0,,19.86,45.27
+586,Novi Sad,Serbia,industry,4,13,refinery,0,,19.86,45.27
+587,Novi Sad,Serbia,various,4,15,,0,,19.86,45.27
+588,Novi Sad,Serbia,various,4,16,,0,,19.86,45.27
+589,Novi Sad,Serbia,industry,4,17,refinery,0,,19.86,45.27
+590,Novi Sad,Serbia,industry,4,18,refinery,0,,19.86,45.27
+591,Novi Sad,Serbia,industry,4,20,refinery,0,,19.86,45.27
+592,Novi Sad,Serbia,military units,4,24,,0,,19.78,45.27
+593,Novi Sad,Serbia,industry,4,25,refinery,0,,19.86,45.27
+594,Novi Sad,Serbia,infrastructure,4,26,bridge,0,,19.86,45.26
+595,Novi Sad,Serbia,industry,4,28,refinery,0,,19.86,45.27
+596,Novi Sad,Serbia,industry,4,29,refinery,0,,19.86,45.27
+597,Novi Sad,Serbia,industry,5,2,refinery,0,,19.86,45.27
+598,Novi Sad,Serbia,communications,5,3,,0,,19.78,45.27
+599,Novi Sad,Serbia,communications,5,13,,0,,19.78,45.27
+600,Novi Sad,Serbia,military units,5,15,,0,,19.78,45.27
+601,Novi Sad,Serbia,industry,5,23,plant,0,,19.86,45.27
+602,Novi Sad,Serbia,communications,5,26,TV station,0,,19.85,45.25
+603,Novi Sad,Serbia,military units,6,1,,0,,19.78,45.27
+604,Novi Sad,Serbia,civilian,6,2,hotel,0,,19.78,45.27
+605,"Novi Sad, Banska palata",Serbia,civilian,4,19,monument,0,,19.84,45.25
+606,"Novi Sad, centar za obuku MUP",Serbia,military facility,3,24,police,0,,19.84,45.26
+607,"Novi Sad, Detelinara",Serbia,civilian,5,6,,0,,19.81,45.26
+608,"Novi Sad, Izvrsno vece",Serbia,government,4,19,,0,,19.85,45.25
+609,"Novi Sad, most Slobode",Serbia,infrastructure,4,3,bridge,0,,19.85,45.23
+610,"Novi Sad, sangaj",Serbia,infrastructure,5,31,grid,0,,19.87,45.27
+611,"Novi Sad, sangaj",Serbia,industry,6,8,refinery,1,civilian,19.87,45.27
+612,"Novi Sad, seleznicki most",Serbia,infrastructure,4,5,bridge,0,,19.86,45.26
+613,"Novi Sad, Varadinski most",Serbia,infrastructure,4,1,bridge,1,civilian,19.86,45.25
+614,Novo Brdo,Kosovo,military units,6,3,,1,military,21.42,42.61
+615,Novopazarska banja,Serbia,military units,4,23,,0,,20.54,43.16
+616,Novopazarska Banja,Serbia,military units,4,26,,0,,20.54,43.16
+617,Novopazarska banja,Serbia,military units,4,30,,0,,20.54,43.16
+618,Obilic,Kosovo,military units,3,29,,0,,21.06,42.69
+619,Obrenovac,Serbia,military units,4,19,,0,,20.19,44.66
+620,Obrenovac,Serbia,military units,5,22,,0,,20.19,44.66
+621,Obrenovac,Serbia,industry,5,23,plant,0,,20.19,44.66
+622,Obrenovac,Serbia,military facility,5,31,barracks,0,,20.19,44.66
+623,Obrenovac,Serbia,military units,6,2,,0,,20.19,44.66
+624,Obrva,Serbia,military units,5,5,,0,,20.6,43.8
+625,Obrva,Serbia,military units,5,5,,0,,20.6,43.8
+626,Omoljica,Serbia,military units,6,1,,3,military,20.69,44.75
+627,Orahovac,Kosovo,military units,5,26,,0,,20.65,42.4
+628,Orlate,Kosovo,military facility,4,8,,2,military,20.82,42.55
+629,Orlate,Kosovo,military units,4,29,,2,military,20.82,42.55
+630,Orlate,Kosovo,military units,5,4,,4,military/police,20.82,42.55
+631,Orljane,Serbia,civilian,5,11,,1,civilian,21.82,43.21
+632,Osecenica,Serbia,military units,4,9,,0,,20.02,44.18
+633,Ostrusnica,Serbia,infrastructure,4,29,bridge,1,civilian,20.31,44.73
+634,Ostrusnica,Serbia,military units,5,26,,0,,20.31,44.73
+635,"Ostrusnica, most",Serbia,infrastructure,4,21,bridge,0,,20.32,44.74
+636,"Ostrusnica, most",Serbia,infrastructure,4,23,bridge,0,,20.32,44.74
+637,Ostrusnicka suma,Serbia,military units,6,2,,0,,20.34,44.7
+638,"Otroci, Kraljevo",Serbia,military units,3,26,,0,,20.8,43.63
+639,"Ovcar predajnik, Cacak",Serbia,communications,4,15,relay,0,,20.19,43.9
+640,"Ovcar predajnik, Cacak",Serbia,communications,4,23,relay,0,,20.19,43.9
+641,Padinska skela,Serbia,military units,5,15,,0,,20.39,44.97
+642,Padinska skela,Serbia,military units,5,16,,0,,20.39,44.97
+643,Palic,Serbia,civilian,5,20,weather station,0,,19.76,46.1
+644,Palic,Serbia,civilian,5,27,,1,civilian,19.76,46.1
+645,Pancevo,Vojvodina,military facility,3,27,,0,,20.64,44.86
+646,Pancevo,Vojvodina,military units,3,28,,0,,20.64,44.86
+647,Pancevo,Vojvodina,military units,3,30,,0,,20.64,44.86
+648,Pancevo,Vojvodina,industry,4,4,refinery,3,civilian,20.64,44.86
+649,Pancevo,Vojvodina,military units,4,7,,0,,20.64,44.86
+650,Pancevo,Vojvodina,military units,4,8,,0,,20.64,44.86
+651,Pancevo,Vojvodina,industry,4,12,refinery,0,,20.64,44.86
+652,Pancevo,Vojvodina,industry,4,13,refinery,0,,20.64,44.86
+653,Pancevo,Vojvodina,industry,4,15,factory,0,,20.64,44.86
+654,Pancevo,Vojvodina,industry,4,16,factory,0,,20.64,44.86
+655,Pancevo,Vojvodina,industry,4,18,refinery,0,,20.64,44.86
+656,Pancevo,Vojvodina,civilian,5,1,,0,,20.64,44.86
+657,Pancevo,Vojvodina,industry,5,31,refinery,0,,20.64,44.86
+658,Pancevo,Vojvodina,military units,6,1,,0,,20.64,44.86
+659,Pancevo,Vojvodina,industry,6,8,refinery,0,,20.64,44.86
+660,Pancicev vrh,Serbia,military units,4,30,,0,,20.81,43.28
+661,Paracin,Serbia,military units,4,19,,0,,21.4,43.86
+662,Paracin,Serbia,military units,4,28,,0,,21.4,43.86
+663,Paracin,Serbia,military units,5,8,,0,,21.4,43.86
+664,Paracin,Serbia,military units,5,12,,0,,21.4,43.86
+665,Paracin,Serbia,military units,5,29,,0,,21.4,43.86
+666,Partes,Kosovo,military units,3,28,,0,,21.42,42.4
+667,Pasjane,Kosovo,military units,3,28,,0,,21.49,42.41
+668,Pasjane,Kosovo,infrastructure,4,30,bridge,0,,21.49,42.41
+669,Pasjane,Kosovo,military units,5,9,,0,,21.49,42.41
+670,"Pastrik, Planeja",Kosovo,military units,4,15,,0,,20.53,42.21
+671,Pavlovac,Serbia,civilian,4,14,,2,civilian,21.85,42.49
+672,Pec,Kosovo,military facility,4,7,military,0,,20.26,42.66
+673,Pec,Kosovo,military units,4,11,,0,,20.26,42.66
+674,Pec,Kosovo,military facility,4,15,military,0,,20.26,42.66
+675,Pec,Kosovo,military units,4,27,,0,,20.26,42.66
+676,Pec,Kosovo,military units,5,9,,0,,20.26,42.66
+677,Pec,Kosovo,military units,5,16,,0,,20.26,42.66
+678,Pec,Kosovo,military units,5,17,,0,,20.26,42.66
+679,Pec,Kosovo,military units,5,19,,1,military,20.26,42.66
+680,Pec,Kosovo,military units,6,2,,0,,20.26,42.66
+681,Pec,Kosovo,military units,6,6,,0,,20.26,42.66
+682,"Pepeljevac, most",Serbia,infrastructure,4,15,bridge,0,,21.25,43.57
+683,Petrovcic,Belgrade,military units,4,18,,2,military,20.14,44.79
+684,Pirane,Kosovo,military units,4,14,,5,civilian/military,20.67,42.29
+685,Pirane,Kosovo,military facility,6,5,bunker,0,,20.67,42.29
+686,Pirot,Serbia,military units,5,21,,0,,22.6,43.14
+687,Pirot,Serbia,military units,5,26,,0,,22.6,43.14
+688,Pirot,Serbia,military units,5,28,,0,,22.6,43.14
+689,Pirot,Serbia,military units,5,30,,0,,22.6,43.14
+690,Planeja,Kosovo,military units,5,30,,1,military,20.57,42.21
+691,Planeja,Kosovo,military units,5,31,,5,military,20.57,42.21
+692,Podgorac,Serbia,civilian,6,7,,3,civilian,21.95,43.94
+693,Podgorica,Montenegro,military units,4,6,,0,,19.29,42.44
+694,Podgorica,Montenegro,military units,4,7,,0,,19.29,42.44
+695,Podina,Serbia,infrastructure,4,30,bridge,0,,21.66,43.21
+696,Podina,Serbia,military facility,5,11,,0,,21.66,43.21
+697,Podujevo,Kosovo,military units,4,19,,0,,21.19,42.91
+698,Podujevo,Kosovo,military units,5,7,,0,,21.19,42.91
+699,Pomazatin,Kosovo,military units,5,19,,0,,21.02,42.62
+700,Ponikve,Serbia,military facility,4,20,airport,0,,19.69,43.9
+701,Ponikve,Serbia,military facility,4,30,airport,0,,19.69,43.9
+702,Ponikve,Serbia,military facility,5,17,airport,0,,19.69,43.9
+703,Ponikve,Kosovo,military facility,5,21,airport,0,,19.69,43.9
+704,Ponikve,Serbia,military facility,5,23,airport,0,,19.69,43.9
+705,Ponikve,Serbia,military facility,5,28,airport,0,,19.69,43.9
+706,Ponikve,Serbia,military facility,6,2,airport,0,,19.69,43.9
+707,"Popovac, Nis",Serbia,infrastructure,5,28,bridge,0,,21.81,43.34
+708,Posarevac,Serbia,civilian,4,29,,0,,21.18,44.62
+709,Posarevac,Serbia,military units,5,15,,0,,21.18,44.62
+710,Posarevac,Serbia,industry,5,22,plant,0,,21.18,44.62
+711,Posega,Serbia,military units,5,21,,0,,20.03,43.85
+712,Posliste,Kosovo,military units,5,14,,1,military,20.67,42.18
+713,Posliste,Kosovo,military units,5,31,,1,military,20.67,42.18
+714,Prahovo,Serbia,industry,5,5,refinery,0,,22.61,44.29
+715,Prahovo,Serbia,industry,5,15,refinery,0,,22.61,44.29
+716,Prahovo,Serbia,industry,5,26,refinery,0,,22.61,44.29
+717,Pranjani,Serbia,civilian,4,13,,0,,20.21,44.01
+718,Preoce,Kosovo,civilian,4,11,civilian,0,,21.12,42.6
+719,Presevo,Serbia,military units,4,15,,8,military,21.65,42.31
+720,Presevo,Serbia,military units,5,17,,0,,21.65,42.31
+721,Priboj,Serbia,communications,5,29,relay,0,,19.53,43.58
+722,Pricevic,Serbia,military units,4,9,,1,military,19.77,44.28
+723,Pricevic,Serbia,industry,4,18,refinery,0,,19.77,44.28
+724,Pricevic,Serbia,military units,4,26,,0,,19.77,44.28
+725,Prijanovici,Serbia,military units,4,14,,0,,20.08,43.86
+726,Prijanovici,Serbia,military units,4,18,,0,,20.08,43.86
+727,Prijanovici,Serbia,military units,4,30,,0,,20.08,43.86
+728,Prijepolje,Serbia,infrastructure,5,3,bridge,0,,19.65,43.39
+729,"Prilike, Ivanjica",Serbia,communications,4,13,,0,,20.15,43.63
+730,"Prilike, Ivanjica",Serbia,communications,4,20,,0,,20.15,43.63
+731,"Prilike, Ivanjica",Serbia,communications,4,30,,0,,20.15,43.63
+732,Pristina,Kosovo,military units,3,24,,0,,21.12,42.67
+733,Pristina,Kosovo,military units,3,26,civilian,0,,21.12,42.67
+734,Pristina,Kosovo,military units,3,28,,0,,21.12,42.67
+735,Pristina,Kosovo,military units,3,29,civilian,1,civilian,21.12,42.67
+736,Pristina,Kosovo,military units,3,30,,0,,21.12,42.67
+737,Pristina,Kosovo,industry,4,5,refinery,0,,21.12,42.67
+738,Pristina,Kosovo,military facility,4,7,,9,civilian/police,21.12,42.67
+739,Pristina,Kosovo,military units,4,11,,0,,21.12,42.67
+740,Pristina,Kosovo,various,4,12,various,4,military,21.12,42.67
+741,Pristina,Kosovo,industry,4,13,factory,0,,21.12,42.67
+742,Pristina,Kosovo,various,4,13,various,1,civilian,21.12,42.67
+743,Pristina,Kosovo,industry,4,14,factory,1,military,21.12,42.67
+744,Pristina,Kosovo,military units,4,15,,0,,21.12,42.67
+745,Pristina,Kosovo,military units,4,16,,0,,21.12,42.67
+746,Pristina,Kosovo,military units,4,20,,1,civilian,21.12,42.67
+747,Pristina,Kosovo,military units,4,23,,0,,21.12,42.67
+748,Pristina,Kosovo,military units,4,24,,0,,21.12,42.67
+749,Pristina,Kosovo,military units,4,27,,0,,21.12,42.67
+750,Pristina,Kosovo,military units,5,3,,0,,21.12,42.67
+751,Pristina,Kosovo,military units,5,14,,2,military,21.12,42.67
+752,Pristina,Kosovo,military units,5,17,,0,,21.12,42.67
+753,Pristina,Kosovo,military units,5,26,,0,,21.12,42.67
+754,Pristina,Kosovo,various,5,31,"cemetary, monument, refinery",0,,21.12,42.67
+755,Pristina,Kosovo,military units,6,2,,0,,21.12,42.67
+756,Pristina,Kosovo,military units,6,5,,0,,21.12,42.67
+757,Pristina,Kosovo,military units,6,6,,0,,21.12,42.67
+758,"Pristina, Kosovski junaci",Kosovo,military units,3,29,military,3,military/police,21.14,42.65
+759,Prizren,Kosovo,military units,3,25,police,2,police,20.72,42.21
+760,Prizren,Kosovo,military units,3,27,military,0,,20.72,42.21
+761,Prizren,Kosovo,civilian,3,28,monument,0,,20.72,42.21
+762,Prizren,Kosovo,military facility,4,11,military,0,,20.72,42.21
+763,Prizren,Kosovo,military units,4,15,,1,military,20.72,42.21
+764,Prizren,Kosovo,civilian,4,28,civilian,4,civilian,20.72,42.21
+765,Prizren,Kosovo,military units,5,1,,7,civilian,20.72,42.21
+766,Prizren,Kosovo,military units,5,2,,1,civilian,20.72,42.21
+767,Prizren,Kosovo,infrastructure,5,13,railway st,1,military,20.72,42.21
+768,Prizren,Kosovo,infrastructure,5,18,bridge,0,,20.66,42.19
+769,Prizren,Kosovo,military units,5,19,,0,,20.72,42.21
+770,Prizren,Kosovo,military units,5,22,,0,,20.72,42.21
+771,Prizren,Kosovo,military units,5,24,,0,,20.72,42.21
+772,Prizren,Kosovo,military units,5,28,,0,,20.72,42.21
+773,Prizren,Kosovo,military facility,5,29,baracks,3,military,20.72,42.21
+774,Prizren,Kosovo,military units,6,1,,7,military,20.72,42.21
+775,Prizren,Kosovo,military units,6,2,,0,,20.72,42.21
+776,Prizren,Kosovo,various,6,3,,1,military,20.72,42.21
+777,Prizren,Kosovo,military units,6,5,,0,,20.72,42.21
+778,Prizren,Kosovo,military units,6,8,,0,,20.72,42.21
+779,Prokuplje,Serbia,military facility,3,24,,1,military,21.59,43.23
+780,Rabas,Serbia,civilian,5,27,farm,0,,19.82,44.35
+781,Radevo,Kosovo,military units,4,28,,1,military,21.05,42.57
+782,Radinci,Vojvodina,military units,4,29,,0,,19.67,45.04
+783,"Radoste, Orahovac",Kosovo,civilian,5,26,,2,civilian,20.53,42.39
+784,Radovca,Montenegro,military units,4,29,,0,,19.26,42.58
+785,Radovici,Montenegro,military units,3,24,military,0,,18.67,42.39
+786,Rakovica,Belgrade,industry,4,15,factory,0,,20.45,44.75
+787,Rakovica,Belgrade,military units,4,17,,0,,20.45,44.75
+788,Rakovica,Belgrade,military facility,5,7,,0,,20.45,44.75
+789,Ralja,Belgrade,military units,3,24,,0,,20.56,44.57
+790,Ralja,Belgrade,civilian,5,26,house,4,civilian,20.56,44.57
+791,Raska,Serbia,military facility,4,4,baracks,1,military,20.62,43.29
+792,Ratina,Serbia,military units,5,22,,0,,20.75,43.7
+793,Ratina,Serbia,military units,5,29,,0,,20.75,43.7
+794,Ravna Reka,Serbia,military units,6,3,military,0,,21.6,44.01
+795,Resnik,Belgrade,industry,4,23,factory,0,,20.44,44.71
+796,Ribnice,Serbia,civilian,4,17,,1,civilian,21.89,42.51
+797,Ripanj,Belgrade,civilian,5,31,house,2,civilian,20.52,44.64
+798,Ritopek,Belgrade,civilian,5,24,house,0,,20.65,44.74
+799,Rogovo,Kosovo,military units,4,12,,1,military,20.58,42.33
+800,Rosaje,Montenegro,military units,3,25,,0,,20.15,42.84
+801,Rudnica,Serbia,infrastructure,4,30,bridge,0,,20.69,43.27
+802,Rudnik,Serbia,military units,4,20,,0,,20.5,44.14
+803,Rudnik,Serbia,communications,5,8,,0,,20.5,44.14
+804,Ruma,Serbia,military facility,4,7,,0,,19.79,45.01
+805,Rznic,Kosovo,military units,4,12,,0,,20.35,42.52
+806,Sabac,Serbia,military units,4,27,,1,military,19.65,44.77
+807,Sabac,Serbia,industry,5,11,refinery,0,,19.65,44.77
+808,Sabac,Serbia,military units,5,18,,0,,19.65,44.77
+809,Sabac,Serbia,various,5,22,"old city fortress, factory",0,,19.7,44.76
+810,Sabac,Serbia,military units,5,23,,0,,19.65,44.77
+811,Sabac,Serbia,military facility,5,25,baracks,0,,19.68,44.75
+812,Sabac,Serbia,military units,5,26,,1,military,19.65,44.77
+813,Samaila,Serbia,military units,4,16,,0,,20.55,43.76
+814,Samaila,Serbia,military units,4,16,,0,,20.55,43.76
+815,Samaila,Serbia,military units,4,21,,0,,20.55,43.76
+816,Samaila,Serbia,military units,5,10,,0,,20.55,43.76
+817,Samodrasa,Kosovo,military units,5,21,,1,military,20.74,42.36
+818,Samokovo,Serbia,military units,4,2,,1,military,21.28,43.13
+819,Saskovac,Kosovo,military units,3,30,,0,,21.32,42.48
+820,Saskovac,Kosovo,military units,4,14,,0,,21.32,42.48
+821,Savine Vode,Kosovo,military units,5,3,civilian,19,civilian/military/police,20.32,42.74
+822,Savine Vode,Kosovo,civilian,5,4,civilian,1,police,20.32,42.74
+823,Sedlare,Kosovo,military units,5,24,,0,,20.91,42.51
+824,Simanovci,Vojvodina,civilian,5,2,,1,civilian,20.07,44.88
+825,Sisatovac,Vojvodina,civilian,4,17,monument,0,,19.55,45.13
+826,Sjenica,Serbia,military units,4,4,,1,military,20,43.27
+827,Sjenica,Serbia,communications,5,11,relay,0,,20,43.27
+828,Skoza,Kosovo,military units,5,12,,1,military,20.59,42.16
+829,Slankamen,Vojvodina,military units,6,8,,0,,20.22,45.13
+830,Slatina,Kosovo,military facility,3,24,airport,0,,21.01,42.57
+831,Slatina,Kosovo,military units,3,30,military,0,,21.01,42.57
+832,Slatina,Kosovo,military facility,4,11,airport,0,,21.01,42.57
+833,Slatina,Kosovo,military facility,4,12,military,0,,21.01,42.57
+834,Slatina,Kosovo,military facility,4,13,airport,0,,21.01,42.57
+835,Slatina,Kosovo,military facility,4,14,airport,0,,21.01,42.57
+836,Slatina,Kosovo,military units,4,16,,0,,21.01,42.57
+837,Slatina,Kosovo,military units,4,19,,1,military,21.01,42.57
+838,Slatina,Kosovo,military facility,4,20,airport,0,,21.01,42.57
+839,Slatina,Kosovo,military facility,4,26,airport,0,,21.01,42.57
+840,Slatina,Kosovo,military facility,4,30,airport,0,,21.01,42.57
+841,Slatina,Kosovo,military facility,5,1,airport,0,,21.01,42.57
+842,Slatina,Kosovo,military units,5,7,airport,0,,21.01,42.57
+843,Slatina,Kosovo,military units,5,12,airport,0,,21.01,42.57
+844,Smederevo,Serbia,industry,4,4,refinery,0,,20.97,44.61
+845,Smederevo,Serbia,industry,4,8,refinery,0,,20.97,44.61
+846,Smederevo,Serbia,industry,4,9,refinery,0,,20.97,44.61
+847,Smederevo,Serbia,industry,4,13,refinery,0,,20.97,44.61
+848,Smederevo,Serbia,infrastructure,4,15,bridge,0,,20.98,44.6
+849,Smederevo,Serbia,military units,4,16,,1,military,20.97,44.61
+850,Smederevo,Serbia,military units,4,19,,1,military,20.97,44.61
+851,Smederevo,Serbia,industry,4,29,refinery,0,,20.97,44.61
+852,Smederevo,Serbia,military units,4,30,,0,,20.93,44.67
+853,Smederevo,Serbia,industry,5,15,factory,0,,20.94,44.66
+854,Smederevo,Serbia,industry,5,16,factory,0,,20.94,44.66
+855,Smederevo,Serbia,military units,5,17,,0,,20.97,44.61
+856,Smederevo,Serbia,various,5,21,"refinery, relay",0,,20.97,44.61
+857,Smederevo,Serbia,military units,5,30,,0,,20.93,44.67
+858,Smederevo,Serbia,industry,6,1,plant,0,,20.97,44.61
+859,Smederevo,Serbia,military units,6,3,,1,military,20.93,44.67
+860,Soderce,Serbia,civilian,4,22,,1,civilian,21.85,42.55
+861,Sofajlija,Kosovo,military units,4,16,,0,,21.19,42.67
+862,Sombor,Serbia,military facility,3,24,airport,1,military,19.06,45.72
+863,Sombor,Serbia,military facility,4,26,airport,0,,19.06,45.72
+864,Sombor,Serbia,military units,4,27,,0,,19.06,45.72
+865,Sombor,Serbia,military facility,4,30,airport,0,,19.06,45.72
+866,Sombor,Serbia,military units,5,2,,0,,19.06,45.72
+867,Sombor,Serbia,military facility,5,8,airport,0,,19.06,45.72
+868,Sombor,Serbia,military units,5,11,,0,,19.06,45.72
+869,Sombor,Serbia,industry,5,20,refinery,1,military,19.06,45.72
+870,Sombor,Serbia,industry,5,22,refinery,0,,19.06,45.72
+871,Sombor,Serbia,industry,6,2,refinery,0,,19.06,45.72
+872,"Sovljak, Kraljevo",Serbia,military units,5,25,,0,,20.03,44.46
+873,Srbica,Kosovo,military units,5,12,,0,,20.78,42.75
+874,Srbobran,Serbia,communications,5,20,radio relay,0,,19.77,45.54
+875,Srbobran,Serbia,communications,6,3,relay,0,,19.77,45.54
+876,Sremcica,Serbia,military units,3,26,,0,,20.38,44.68
+877,Sremska Kamenica,Vojvodina,communications,5,29,TV station,0,,19.81,45.21
+878,Sremska Mitrovica,Vojvodina,military facility,4,7,,0,,19.81,45.21
+879,Sremska Mitrovica,Vojvodina,military units,4,19,,0,,19.81,45.21
+880,Sremska Mitrovica,Vojvodina,military units,4,29,,0,,19.81,45.21
+881,Sremska Mitrovica,Vojvodina,military units,5,21,,0,,19.81,45.21
+882,Sremska Mitrovica,Vojvodina,military units,5,29,,0,,19.81,45.21
+883,Stari trg,Kosovo,military units,5,13,,0,,20.92,42.94
+884,Staro Gacko,Kosovo,military units,5,11,factory,3,civilian,21.1,42.51
+885,Staro Selo,Kosovo,military units,5,12,,1,military,21.1,44.29
+886,Staro Selo,Kosovo,military units,5,27,,0,,20.89,42.38
+887,Stimlje,Kosovo,military units,5,9,,0,,21.03,42.44
+888,Stimlje,Kosovo,military units,5,12,,1,military,21.03,42.44
+889,Stimlje,Kosovo,military units,5,13,,1,military,21.03,42.44
+890,"Strasevica, Rakovica",Serbia,military facility,3,27,radar,2,military,20.43,44.73
+891,"Strasevica, Rakovica",Serbia,military facility,3,27,,0,,20.43,44.73
+892,"Strasevica, Rakovica",Serbia,military facility,4,18,,0,,20.43,44.73
+893,"Strasevica, Rakovica",Serbia,military facility,5,3,,0,,20.43,44.73
+894,"Strasevica, Rakovica",Serbia,military facility,5,3,,0,,20.43,44.73
+895,"Strasevica, Rakovica",Serbia,military facility,5,20,bunker,0,,20.43,44.73
+896,"Strasevica, Rakovica",Serbia,civilian,5,22,,0,,20.43,44.73
+897,"Strasevica, Rakovica",Serbia,military facility,5,23,baracks,0,,20.43,44.73
+898,"Strasevica, Rakovica",Serbia,military facility,5,25,bunker,0,,20.43,44.73
+899,"Strasevica, Rakovica",Serbia,civilian,5,29,,0,,20.43,44.73
+900,"Strasevica, Rakovica",Serbia,military facility,5,30,bunker,0,,20.43,44.73
+901,Strezovce,Kosovo,military units,5,11,,0,,21.73,42.27
+902,Strpce,Kosovo,military units,5,24,,0,,21.02,42.24
+903,Stubline,Serbia,communications,5,30,relay,0,,20.13,44.57
+904,Subotica,Vojvodina,military units,4,15,,0,,19.66,46.1
+905,Subotica,Vojvodina,military units,4,19,,0,,19.66,46.1
+906,Surcin,Serbia,military facility,3,27,,0,,20.22,44.78
+907,Surcin,Serbia,military facility,4,7,airport,0,,20.22,44.78
+908,Surcin,Serbia,military units,5,2,,0,,20.22,44.78
+909,Surcin,Serbia,military units,5,23,,0,,20.22,44.78
+910,Surdulica,Serbia,civilian,4,27,,9,civilian,22.16,42.69
+911,Surdulica,Serbia,military facility,5,21,,0,,22.16,42.69
+912,Surdulica,Serbia,civilian,5,31,sanatorium,20,civilian,22.16,42.69
+913,Susica,Kosovo,military units,3,30,,0,,21.49,43.52
+914,Sutomore,Montenegro,military units,4,29,,0,,19.04,42.14
+915,Sutorman,Montenegro,military units,4,15,,0,,19.11,42.15
+916,Sutorman,Montenegro,military units,4,16,,0,,19.11,42.15
+917,Suva Reka,Kosovo,military units,5,18,,0,,20.81,42.36
+918,Svetlje,Kosovo,military units,5,12,civilian,1,civilian,21.22,42.88
+919,Svrke,Montenegro,military units,4,30,,0,,19.32,42.87
+920,Svrljig,Serbia,military units,5,28,,0,,22.11,43.42
+921,Tankosic,Kosovo,military units,5,11,,1,military,21.26,42.38
+922,Termoelektrana Nikola Tesla A,Serbia,industry,5,31,plant,0,,20.16,44.67
+923,Topcider,Serbia,military units,3,26,,0,,20.45,44.78
+924,Topcider,Belgrade,military facility,3,31,,4,military,20.45,44.78
+925,Topli Do,Serbia,military units,4,29,,0,,22.68,43.34
+926,Tornik,Serbia,civilian,4,8,,3,civilian,19.54,44.2
+927,Tornik,Serbia,communications,4,8,,0,,19.54,44.2
+928,Tornik,Serbia,communications,4,15,,0,,19.54,44.2
+929,Tornik,Serbia,military units,4,20,,0,,19.54,44.2
+930,Tornik,Serbia,military units,5,5,,0,,19.54,44.2
+931,Tresnja,Serbia,military facility,3,27,,0,,20.57,44.61
+932,Tresnja,Serbia,military units,5,11,,0,,20.57,44.61
+933,Trstenik,Serbia,infrastructure,4,30,bridge,2,civilian,21,43.62
+934,Trstenik,Serbia,infrastructure,5,1,bridge,0,,21,43.62
+935,Trstenik,Serbia,military units,5,12,,0,,21,43.62
+936,Trupalske sume,Serbia,infrastructure,5,17,bridge,0,,21.8,43.36
+937,Tucep,Kosovo,military units,5,27,,0,,20.58,42.74
+938,Turekovac,Serbia,military units,4,11,,0,,21.88,42.98
+939,Tuzi,Montenegro,military units,4,16,,0,,19.28,42.37
+940,Tuzi,Montenegro,military units,4,16,,0,,19.28,42.37
+941,Tuzi,Montenegro,military units,4,28,,1,civilian,19.28,42.37
+942,Ugrinovci,Belgrade,military units,4,29,,1,military,20.19,44.88
+943,Ulcinj,Montenegro,military units,3,24,military,0,,19.2,41.93
+944,Urosevac,Kosovo,military units,3,25,police,3,police,21.13,42.38
+945,Urosevac,Kosovo,military facility,3,30,military,1,military,21.13,42.38
+946,Urosevac,Kosovo,industry,4,12,factory,0,,21.13,42.38
+947,Urosevac,Kosovo,military facility,5,5,civilian,0,,21.13,42.38
+948,Urosevac,Kosovo,military facility,5,9,,0,,21.13,42.38
+949,Urosevac,Kosovo,military facility,5,13,,0,,21.13,42.38
+950,Urosevac,Kosovo,military facility,5,15,,0,,21.13,42.38
+951,Urosevac,Kosovo,military facility,5,21,,0,,21.13,42.38
+952,Urosevac,Kosovo,military facility,5,23,baracks,1,civilian,21.13,42.38
+953,Urosevac,Kosovo,military facility,6,9,baracks,0,,21.13,42.38
+954,"Usce, Kraljevo",Serbia,military units,5,29,,0,,20.61,43.47
+955,Usice,Serbia,military units,4,13,,0,,19.84,43.86
+956,Usice,Serbia,military units,4,18,,0,,19.84,43.86
+957,Usice,Serbia,communications,4,23,,0,,19.84,43.86
+958,Usice,Serbia,military units,5,4,,0,,19.84,43.86
+959,Usice,Serbia,civilian,5,8,,0,,19.84,43.86
+960,Usice,Serbia,military units,5,13,,0,,19.84,43.86
+961,Usice,Serbia,military units,5,15,,0,,19.84,43.86
+962,Usice,Serbia,military units,5,21,,0,,19.84,43.86
+963,Valjevo,Serbia,military units,4,6,,2,military,19.9,44.28
+964,Valjevo,Serbia,industry,4,14,factory,0,,19.9,44.28
+965,Valjevo,Serbia,military units,4,15,,0,,19.87,44.27
+966,Valjevo,Serbia,industry,4,17,factory,0,,19.9,44.28
+967,Valjevo,Serbia,industry,4,20,factory,0,,19.9,44.28
+968,Valjevo,Serbia,industry,4,21,factory,1,civilian,19.9,44.28
+969,Valjevo,Serbia,industry,4,22,factory,0,,19.9,44.28
+970,Valjevo,Serbia,industry,4,23,factory,0,,19.9,44.28
+971,Valjevo,Serbia,industry,4,30,factory,0,,19.9,44.28
+972,Valjevo,Serbia,military units,5,3,,0,,19.9,44.28
+973,Valjevo,Serbia,military units,5,4,,1,military,19.9,44.28
+974,Valjevo,Serbia,industry,5,8,police/factory,0,,19.9,44.28
+975,Valjevo,Serbia,infrastructure,5,11,bridge,0,,19.9,44.27
+976,Valjevo,Serbia,industry,5,18,factory,1,civilian,19.9,44.28
+977,Valjevo,Serbia,industry,5,28,factory,0,,19.9,44.28
+978,Valjevo,Serbia,industry,5,29,factory,0,,19.9,44.28
+979,Varvarin,Serbia,infrastructure,5,30,bridge,10,civilian,21.37,43.72
+980,Vatin,Serbia,infrastructure,5,6,bridge,0,,21.25,45.23
+981,Velika Grabovnica,Serbia,military units,5,26,,0,,22.01,42.93
+982,Velika Jablanica,Kosovo,military units,5,3,,5,civilian,20.32,42.76
+983,Velika Mostanica,Belgrade,military units,6,2,,0,,20.35,44.66
+984,Velika Plana,Serbia,infrastructure,5,10,bridge,0,,21.08,44.34
+985,Velika Plana,Serbia,infrastructure,5,17,bridge,0,,21.08,44.34
+986,Velika Plana,Serbia,military units,5,21,,0,,21.07,44.33
+987,Velika Plana,Serbia,infrastructure,5,26,bridge,0,,21.08,44.34
+988,Velika Plana,Serbia,infrastructure,6,3,bridge,0,,21.08,44.34
+989,Velika Plana,Serbia,infrastructure,5,10,bridge,0,,21.07,44.34
+990,Velika reka,Kosovo,military units,5,11,,0,,19.23,44.27
+991,Velika Slatina,Kosovo,infrastructure,4,12,bridge,0,,21.01,42.6
+992,Veliki Crljeni,Belgrade,infrastructure,5,13,plant,0,,20.3,44.48
+993,Veliki Crljeni,Belgrade,industry,5,21,plant,0,,20.3,44.48
+994,Veliki Crljeni,Belgrade,industry,5,22,plant,0,,20.3,44.48
+995,Veliki Jastrebac,Serbia,communications,3,24,,0,,21.37,43.43
+996,Veliki Slankamen,Vojvodina,military units,4,20,,0,,20.22,45.13
+997,Veliki sturac,Serbia,military units,6,7,,0,,20.53,44.13
+998,Velikince,Kosovo,military units,5,23,,0,,21.48,42.43
+999,Veliko Orasje,Serbia,infrastructure,5,17,bridge,0,,21.08,44.36
+1000,Veliko Ribare,Kosovo,military units,5,27,,1,military,21.03,42.51
+1001,Veliko Selo,Belgrade,infrastructure,6,1,motorway,0,,20.6,44.81
+1002,Veric,Kosovo,military units,5,27,,0,,20.55,42.75
+1003,Veternik,Vojvodina,military units,3,29,,0,,19.76,45.25
+1004,Veternik,Vojvodina,military units,5,27,,0,,19.76,45.25
+1005,Vezirovo brdo,Serbia,military units,4,30,,0,,21.44,43.91
+1006,Vidikovac,Serbia,civilian,5,30,marketplace,0,,20.41,44.74
+1007,Vinoraca,Serbia,military units,6,2,,0,,21.21,43.96
+1008,"Visibaba, Usice",Serbia,military units,5,29,,0,,20,43.83
+1009,Visoka,Serbia,military units,4,19,,0,,19.86,43.61
+1010,Visoka,Serbia,military units,5,15,,0,,19.86,43.61
+1011,Vitak,Kosovo,military units,5,13,,7,,20.71,42.77
+1012,Vitanovac,Serbia,military units,4,5,,0,,20.8,43.73
+1013,Vitanovac,Serbia,military units,4,30,,0,,20.8,43.73
+1014,Vitanovac,Serbia,military units,5,1,,0,,20.8,43.73
+1015,Vitanovac,Kosovo,military units,5,2,,0,,20.8,43.73
+1016,Vitanovac,Serbia,military units,5,3,,0,,20.8,43.73
+1017,Vitina,Kosovo,civilian,5,29,cemetary,0,,21.36,42.32
+1018,Vladicin Han,Serbia,infrastructure,5,11,civilian/bridge,2,civilian,22.06,42.71
+1019,Vladicin Han,Serbia,military units,5,17,,0,,22.06,42.71
+1020,Vladicin Han,Serbia,infrastructure,5,28,bridge,0,,22.06,42.71
+1021,"Volgina ulica, Zvezdara",Serbia,civilian,5,31,house,0,,20.51,44.8
+1022,Volujak,Kosovo,military facility,4,8,,1,military,20.59,42.55
+1023,Volujak,Kosovo,military units,4,14,,7,military,20.59,42.55
+1024,Vracar,Serbia,civilian,4,30,,1,civilian,20.47,44.8
+1025,Vranesi,Serbia,military units,5,27,,0,,20.81,43.68
+1026,Vranje,Serbia,civilian,4,5,,2,civilian,21.9,42.56
+1027,Vranje,Serbia,military units,4,15,,0,,21.9,42.56
+1028,Vranje,Serbia,military units,4,22,,1,military,21.9,42.56
+1029,Vranje,Serbia,various,5,17,"factory, bus station",0,,21.9,42.56
+1030,Vranje,Serbia,various,5,30,baracks/house,1,civilian,21.9,42.56
+1031,Vranje,Serbia,communications,5,31,relay,0,,21.9,42.56
+1032,Vranje,Serbia,military units,6,9,,0,,21.9,42.56
+1033,Vrba,Serbia,military units,4,17,,0,,20.79,43.69
+1034,Vrba,Serbia,civilian,4,21,farm,0,,20.79,43.69
+1035,Vrbas,Serbia,infrastructure,5,13,bridge,0,,19.61,45.59
+1036,Vrbas,Serbia,communications,5,20,radio relay,0,,19.61,45.59
+1037,Vrbas,Serbia,communications,5,23,relay,0,,19.61,45.59
+1038,Vrbnica,Kosovo,military units,4,15,,4,military,21.29,44.47
+1039,Vrbnica,Kosovo,military units,5,31,,1,military,21.29,44.47
+1040,Vrbovac,Kosovo,military units,3,29,civilian,0,,20.93,44.56
+1041,Vrbovac,Kosovo,military units,6,1,,1,military,20.93,44.56
+1042,Vrdila,Serbia,military units,4,15,,0,,20.57,43.71
+1043,Vrdnik,Serbia,military units,5,30,,0,,19.79,45.12
+1044,Vrelo,Kosovo,military units,5,9,,0,,20.03,44.5
+1045,Vrnjacka banja,Serbia,military units,5,12,,0,,20.85,43.59
+1046,Vrsac,Serbia,communications,4,30,,0,,21.3,45.12
+1047,Vrsac,Serbia,military units,5,29,,0,,21.3,45.12
+1048,Vrsac,Serbia,various,6,5,,0,,21.3,45.12
+1049,"Vucak, Smederevo",Serbia,military facility,3,24,,0,,20.9,44.62
+1050,Vucitrn,Kosovo,military units,3,29,,1,civilian,20.97,42.82
+1051,Vukicevica,Serbia,military units,4,5,,1,military,20,44.56
+1052,Zabalj,Vojvodina,military units,5,20,,0,,20.06,45.39
+1053,"Zabucje, Usice",Serbia,communications,5,25,relay,0,,19.84,43.85
+1054,"Zabucje, Usice",Serbia,communications,5,27,relay,0,,19.84,43.85
+1055,Zagradska Ho?a,Kosovo,military units,5,19,,0,,20.69,42.17
+1056,Zagrmlje,Kosovo,military units,3,30,,0,,20.28,42.62
+1057,Zajecar,Serbia,military facility,4,13,barracks,0,,22.25,43.9
+1058,Zakuta,Serbia,military units,4,25,,0,,20.81,43.84
+1059,Zarca,Serbia,military units,5,1,,0,,20.62,43.47
+1060,Zarkovo,Serbia,military facility,3,25,,0,,20.41,44.76
+1061,Zdravcici,Serbia,military units,4,28,,0,,19.95,43.85
+1062,Zdravcici,Serbia,civilian,4,29,,0,,19.95,43.85
+1063,Zdravcici,Serbia,industry,5,2,refinery,0,,19.95,43.85
+1064,Zdrelo,Kosovo,military units,5,26,,1,military,20.65,42.44
+1065,Zemun Polje,Serbia,industry,4,23,factory,0,,20.31,44.87
+1066,Zezeljev most,Serbia,infrastructure,4,21,bridge,0,,19.86,45.26
+1067,Zjum,Kosovo,military units,6,6,,0,,20.66,42.11
+1068,Zlatibor,Serbia,military units,4,30,,0,,19.67,43.7
+1069,Zlatibor,Serbia,military facility,5,26,bunker,0,,19.67,43.7
+1070,Zrenjaninski put,Belgrade,civilian,5,16,gas station,0,,20.47,44.88
+1071,Zuce,Belgrade,military units,3,30,,0,,20.55,44.7
+1072,Zuce,Belgrade,military units,3,31,,0,,20.55,44.7
+1073,Zuce,Belgrade,military units,5,10,,0,,20.55,44.7
+1074,Zuce,Belgrade,military units,5,28,,0,,20.55,44.7
+1075,Zulfaj,Kosovo,military units,5,5,,1,military,20.41,42.3
+1076,Zur,Kosovo,military units,5,18,,0,,20.62,42.16
+1077,Zvecka,Serbia,communications,5,30,relay,0,,20.16,44.64
+1078,Zvecka,Serbia,communications,5,31,relay,0,,20.16,44.64
+1079,Zvezdara,Belgrade,military units,6,8,,0,,20.5,44.81
