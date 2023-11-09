@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     var map;
     var geoJsonLayer;
-    var selectedDay = 26;
+    var selectedDay = 1;
     var selectedMonth = 3;
   
     function createMap() {
@@ -18,9 +18,6 @@ document.addEventListener('DOMContentLoaded', function () {
   
       // Call the getData function with the default selectedMonth and selectedDay
       getData(map, selectedMonth, selectedDay);
-    
-      /*var mapTitle = document.getElementById('map-title');
-      mapTitle.textContent = "NATO Bombing of Yugoslavia, 1999";*/
     }
   
     function getData(map, selectedMonth, selectedDay) {

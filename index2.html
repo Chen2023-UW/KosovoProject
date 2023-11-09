@@ -12,7 +12,7 @@
 
 </head>
 <body>
-    <!-- Create a container for the map -->
+
     <div id="map"></div>
     <div class="map-title-container">
         <div id="map-title"><h2><i>NATO Bombing of Yugoslavia, 1999</div></i></h2>
@@ -29,8 +29,9 @@
         <img src="img/backward.png" id="prev-day" alt="Previous Day">
         <input type="range" id="day-slider" min="1" max="31" step="1">
         <img src="img/forward.png" id="next-day" alt="Next Day">
+        <p>Day <span id= "day-value">1</span></p>
     </div>
-    <p>Day <span id= "day-value">1</span></p>
+    
 
     <div class="floating-query-panel">
         <h2>Database Query Panel</h2>
@@ -40,15 +41,14 @@
             <input type="submit" value="Execute Query">
         </form>
         <h2>Query Results:</h2>
-        <table id="query-results" border="1">
+        <table id="query-results">
         </table>
     </div>
 
     <div class = "button">
         <button>(upload data)</button>
     </div>
-    
-    <!-- Include Leaflet JS and your custom JS -->
+ 
     <script type="text/javascript" src="lib/leaflet/leaflet.js"></script>
     <script type="text/javascript" src="JS/sam3.js"></script>
 </body>
