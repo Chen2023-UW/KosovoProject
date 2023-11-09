@@ -67,19 +67,6 @@
     border-radius: 10px;
 }*/
 
-.titletext {
-    width: 550px;
-    height: 40px;
-    background-color: rgba(255,255,255,0.8);
-    padding: 2px;
-    font-size: 24px;
-    text-align: center;
-    font-weight: bold;
-    font-family: "Times New Roman", Times, serif;
-    border: solid gray 1px;
-    border-radius: 10px;
-
-}
 
 .citestext {
     width: 580px;
@@ -97,25 +84,27 @@
 }
 
 
-.map-title-container {
+.map-title-container {   
     position: absolute;
-    top: 20px; /* Adjust the top position as needed */
-    right: 20px; /* Adjust the left position as needed */
-    background-color: rgba(255, 255, 255, 0.8); /* Background color with opacity */
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    z-index: 1000; /* Ensure it's above the map */
+    top: 20px; 
+    right: 20px;
+    z-index: 1000; 
 }
-
 
 .floating-query-panel {
     position: fixed;
-    top: 100px; /* Adjust the top position as needed */
-    left: 20px; /* Adjust the left position as needed */
+    top: 100px; 
+    left: 20px; 
     background-color: rgba(255, 255, 255, 0.8);
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    z-index: 1050; /* Ensure it's above the map */
+    z-index: 1050;
+}
+
+.button {
+    position: absolute;
+    top: 85%;
+    right: 50%;
+    z-index: 1060;
 }

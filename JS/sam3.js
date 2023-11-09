@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function () {
     var map;
     var geoJsonLayer;
-    var selectedDay = 26; // Initialize the selected day
-    var selectedMonth = 3; // Initialize the selected month
+    var selectedDay = 26;
+    var selectedMonth = 3;
   
     function createMap() {
       map = L.map("map", {
@@ -19,8 +19,8 @@ document.addEventListener('DOMContentLoaded', function () {
       // Call the getData function with the default selectedMonth and selectedDay
       getData(map, selectedMonth, selectedDay);
     
-      var mapTitle = document.getElementById('map-title');
-      mapTitle.textContent = "NATO Bombing of Yugoslavia, 1999"; // Replace with your desired map title
+      /*var mapTitle = document.getElementById('map-title');
+      mapTitle.textContent = "NATO Bombing of Yugoslavia, 1999";*/
     }
   
     function getData(map, selectedMonth, selectedDay) {
@@ -52,11 +52,13 @@ document.addEventListener('DOMContentLoaded', function () {
                 weight: 1,
                 opacity: 0.8,
                 fillOpacity: 0.6,
-                radius: 6, // Set the desired fixed radius here
+                radius: 6,
               });
             },
             onEachFeature: function (feature, layer) {
-              var popupContent = "Location: " + feature.properties.loc + "<br>Date: " + feature.properties.date;
+              var popupContent = "Location: " + feature.properties.loc + "<br>Date: " + feature.properties.date
+              + "<br>Type:" + feature.properties.type + "<br>Detail:" + feature.properties.descr 
+              + "<br>Death:" + feature.properties.deaths;
               layer.bindPopup(popupContent);
             },
           }).addTo(map);
@@ -68,16 +70,14 @@ document.addEventListener('DOMContentLoaded', function () {
   
     function updateSliderValue(value) {
       document.getElementById('day-slider').value = value;
-      document.getElementById('day-value').textContent = value; // Update a display element if needed
+      document.getElementById('day-value').textContent = value;
     }
   
-    // Event listener for month selection
     document.getElementById('month-select').addEventListener('change', function () {
       selectedMonth = parseInt(this.value, 10);
       getData(map, selectedMonth, selectedDay);
     });
   
-    // Event listener for day slider
     document.getElementById('day-slider').addEventListener('input', function () {
       selectedDay = parseInt(this.value, 10);
       updateMap();
@@ -103,10 +103,15 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     }
   
-    // Event listeners for the "Prev Day" and "Next Day" buttons
     document.getElementById('prev-day').addEventListener('click', handlePrevDay);
     document.getElementById('next-day').addEventListener('click', handleNextDay);
   
     createMap();
+
+    function onButtonClick() {
+      alert('upload your data here');
+    }
+    const button = document.querySelector('button');
+    button.addEventListener('click', onButtonClick);
   });
   
