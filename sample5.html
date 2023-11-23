@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>KosovoProject</title>
+
+    <link rel="stylesheet" href="lib/leaflet/leaflet.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div id="map"></div>
+    <div class="map-title-container">
+        <div id="map-title"><h2><i>NATO Bombing of Yugoslavia, 1999</div></i></h2>
+    </div>
+
+    <!-- Create controls for month selection and day slider -->
+    <div class="controls">
+        <select id="month-select">
+            <option value="3">March</option>
+            <option value="4">April</option>
+            <option value="5">May</option>
+            <option value="6">June</option>
+        </select>
+        <img src="img/backward.png" id="prev-day" alt="Previous Day">
+        <input type="range" id="day-slider" min="1" max="31" step="1">
+        <img src="img/forward.png" id="next-day" alt="Next Day">
+        <p>Day <span id= "day-value"></span></p>
+    </div>
+
+    <!-- Your existing HTML content -->
+
+    <div class="floating-query-panel">
+        <h2>Database Query Panel</h2>
+        <form id="query-form" action="http://localhost:3000/query" method="POST">
+            <textarea id="query-text" name="query" rows="4" cols="50"></textarea>
+            <br>
+            <input type="button" value="Execute Query" onclick="executeQuery()">
+        </form>
+        <h2>Query Results:</h2>
+        <table id="query-results">
+        </table>
+    </div>
+
+    <!-- Your existing HTML content -->
+    <div class = "button">
+        <form action="/action_page.php">
+            <input type="file" id="myFile" name= "filename">
+            <input type= "submit">
+        </form>
+        </div>
+
+    <script type="text/javascript" src="lib/leaflet/leaflet.js"></script>
+    <script type="text/javascript" src="JS/sam3.js"></script>
+    <script type="text/javascript" src="JS/server.js"></script>
+
+    <script>
+        function executeQuery() {
+            // Get the query from the textarea
+            const query = document.getElementById('query-text').value;
+
+            // Make a POST request to the server
+            fetch('http://localhost:3000/query', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ query: query }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Display the results on the webpage
+                const queryResultsElement = document.getElementById('query-results');
+                // Clear previous results
+                queryResultsElement.innerHTML = '';
+                data.forEach(result => {
+                    const row = document.createElement('tr');
+                    for (const key in result) {
+                        const cell = document.createElement('td');
+                        cell.textContent = result[key];
+                        row.appendChild(cell);
+                    }
+                    queryResultsElement.appendChild(row);
+                });
+            })
+            .catch(error => {
+                console.error('Error executing query:', error);
+            });
+        }
+    </script>
+</body>
+</html>
