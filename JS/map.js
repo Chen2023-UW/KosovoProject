@@ -138,5 +138,4 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('prev-day').addEventListener('click', handlePrevDay);
     document.getElementById('next-day').addEventListener('click', handleNextDay);
     createMap();
-    /*document.getElementById('switch-base-map-button').addEventListener('click', switchBaseMap);*/
   });
