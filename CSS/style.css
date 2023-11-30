@@ -5,7 +5,7 @@
 }
 
 .leaflet-popup-content p {
-    margin: .2em;
+    margin: .1em;
 }
 
 #prev-day,
@@ -16,7 +16,7 @@
 
 .map-title-container {   
     position: absolute;
-    top: 20px; 
+    bottom: 20px; 
     right: 20px;
     z-index: 1000; 
 }
@@ -42,12 +42,28 @@
 .controls {
     position: absolute;
     left: 1%;
-    top: 82%;
+    top: 85%;
     z-index: 1045;
 }
 
 #switch-base-map-button img {
-    max-width: 24px; /* Adjust the maximum width as needed */
-    max-height: 24px; /* Adjust the maximum height as needed */
-    vertical-align: middle; /* Align the image vertically in the middle of the button */
+    max-width: 24px; 
+    max-height: 24px; 
+    vertical-align: middle; }
+
+#query-results-container {
+    max-height: 400px; /* Adjust the max height as needed */
+    overflow-y: auto;
+}
+
+
+#query-results {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#query-results th, #query-results td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
 }

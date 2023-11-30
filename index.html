@@ -1,31 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
     <title>KosovoProject</title>
-
-    <!-- Include Leaflet CSS -->
     <link rel="stylesheet" href="lib/leaflet/leaflet.css">
-
-    <!-- Include your custom CSS if needed -->
     <link rel="stylesheet" href="css/style.css">
-
-    <!--[if IE<9]>
-        <link rel="stylesheet" href="css/style.ie.css">
-    <![endif>
-    <!-- You can also place internal styles here within <style> tags -->
-
 </head>
 <body>
-    <!-- Create a container for the map -->
-    <div id="map"></div>
-    <div class="map-title-container">
-        <div id="map-title">NATO Bombing of Yugoslavia, 1999</div>
-    </div>
 
-    <!-- Create controls for month selection and day slider -->
+    <div id="map"></div>
+
     <div class="controls">
+        <!-- Original month control -->
         <select id="month-select">
             <option value="3">March</option>
             <option value="4">April</option>
@@ -36,10 +23,111 @@
         <input type="range" id="day-slider" min="1" max="31" step="1">
         <img src="img/forward.png" id="next-day" alt="Next Day">
     </div>
-    <p>Day <span id="day-value">1</span></p>
 
-    <!-- Include Leaflet JS and your custom JS -->
+    <div class="floating-query-panel">
+        <h2>Database Query Panel</h2>
+        
+        <!-- Attribute selectors for the query -->
+        <label for = "mon-select">Select Month:</label>
+        <select id = "mon-select">
+            <option value="3">March</option>
+            <option value="4">April</option>
+            <option value="5">May</option>
+            <option value="6">June</option>
+        </select>
+
+        <label for="region-select">Select Region:</label>
+        <select id="region-select">
+            <option value="Serbia">Serbia</option>
+            <option value="Kosovo">Kosovo</option>
+            <option value="Montenegro">Montenegro</option>
+            <option value="Belgrade">Belgrade</option>
+            <option value="Vojvodina">Vojvodina</option>
+        </select>
+
+        <label for="type-select">Select Type:</label>
+        <select id="type-select">
+            <option value="various">various</option>
+            <option value="military facility">military facility</option>
+            <option value="government">government</option>
+            <option value="infrastructure">infrastructure</option>
+            <option value="communications">communications</option>
+            <option value="civilian">civilian</option>
+            <option value="industry">industry</option>
+            <option value="military units">military units</option>
+        </select>
+
+        <br>
+        <input type="button" value="Execute Query" onclick="executeQuery()">
+        <div id="query-results-container">
+            <h2>Query Results:</h2>
+            <table id="query-results">        
+            </table>
+        </div>
+    </div>
+
+    <div class="share-buttons">
+        <a href="https://twitter.com/intent/tweet?url=https://github.com/Chen2023-UW/KosovoProject.git" target="_blank" rel="noopener noreferrer">
+            <img src="img/twitter.png" alt="share on Twitter">
+        </a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/Chen2023-UW/KosovoProject.git" target="_blank" rel="noopener noreferrer">
+            <img src="img/facebook.png" alt="share on Facebook">
+        </a>
+    </div>
+
+    <div class="map-title-container">
+        <div id="map-title"><h1><i>NATO Bombing of Yugoslavia, 1999</i></h1></div>
+    </div>
+
     <script type="text/javascript" src="lib/leaflet/leaflet.js"></script>
-    <script type="text/javascript" src="JS/sam3.js"></script>
+    <script type="text/javascript" src="JS/map.js"></script>
+    <script type="text/javascript" src="JS/server.js"></script>
+
+    <script>
+        function executeQuery() {
+            const region = document.getElementById('region-select').value;
+            const month = document.getElementById('mon-select').value;
+            const type = document.getElementById('type-select').value;
+
+            const query = `SELECT location, region, type, month, day, descr, deaths FROM act1 WHERE 
+                region='${region}'
+                AND month='${month}'
+                AND type='${type}'
+                Order by day ASC`;
+
+            fetch('http://localhost:3000/query', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ query: query }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                const queryResultsElement = document.getElementById('query-results');
+                queryResultsElement.innerHTML = '';
+                const headerRow = document.createElement('tr');
+                for (const key in data[0]) {
+                    const headerCell = document.createElement('th');
+                    headerCell.textContent = key;
+                    headerRow.appendChild(headerCell);
+                }
+                queryResultsElement.appendChild(headerRow);
+
+                data.forEach(result => {
+                    const row = document.createElement('tr');
+                    for (const key in result) {
+                        const cell = document.createElement('td');
+                        cell.textContent = result[key];
+                        row.appendChild(cell);
+                    }
+                    queryResultsElement.appendChild(row);
+                });
+            })
+            .catch(error => {
+                console.error('Error executing query:', error);
+            });
+        }
+    </script>
 </body>
 </html>

@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     var map;
     var geoJsonLayer;
-    var selectedDay = 26;
+    var selectedDay = 1;
     var selectedMonth = 3;
 
     var voyagerBaseMap = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {
@@ -35,7 +35,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function switchBaseMap() {
-        // Check the current base map and switch to the other one
         if (map.hasLayer(voyagerBaseMap)) {
             map.removeLayer(voyagerBaseMap);
             map.addLayer(terrainBaseMap);
@@ -51,7 +50,6 @@ document.addEventListener('DOMContentLoaded', function () {
           return response.json();
         })
         .then(function (data) {
-          // Filter the GeoJSON data based on the selected month and day
           var filteredData = data.features.filter(function (feature) {
             var dateParts = feature.properties.date.split('/');
             var featureMonth = parseInt(dateParts[0], 10);
@@ -59,15 +57,12 @@ document.addEventListener('DOMContentLoaded', function () {
             return featureMonth === selectedMonth && featureDay === selectedDay;
           });
   
-          // Clear existing markers
           if (geoJsonLayer) {
             geoJsonLayer.clearLayers();
           }
   
-          // Add markers for the filtered data
           geoJsonLayer = L.geoJSON(filteredData, {
             pointToLayer: function (feature, latlng) {
-              // Create a default circle marker
               return L.circleMarker(latlng, {
                 fillColor: "#ecebe6",
                 color: "#000",
@@ -78,8 +73,10 @@ document.addEventListener('DOMContentLoaded', function () {
               });
             },
             onEachFeature: function (feature, layer) {
-              var popupContent = "Location: " + feature.properties.loc + "<br>Date: " + feature.properties.date
-              + "<br>Type:" + feature.properties.type + "<br>Detail:" + feature.properties.descr 
+              var popupContent = "Location: " + feature.properties.loc 
+              + "<br>Date: " + feature.properties.date
+              + "<br>Type:" + feature.properties.type 
+              + "<br>Detail:" + feature.properties.descr 
               + "<br>Death:" + feature.properties.deaths;
               layer.bindPopup(popupContent);
             },
@@ -92,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function () {
   
     function updateSliderValue(value) {
       document.getElementById('day-slider').value = value;
-      document.getElementById('day-value').textContent = value;
+      
     }
   
     document.getElementById('month-select').addEventListener('change', function () {
@@ -127,9 +124,6 @@ document.addEventListener('DOMContentLoaded', function () {
   
     document.getElementById('prev-day').addEventListener('click', handlePrevDay);
     document.getElementById('next-day').addEventListener('click', handleNextDay);
-  
     createMap();
-
-    document.getElementById('switch-base-map-button').addEventListener('click', switchBaseMap);
+    /*document.getElementById('switch-base-map-button').addEventListener('click', switchBaseMap);*/
   });
-  
