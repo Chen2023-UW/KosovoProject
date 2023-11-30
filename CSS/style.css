@@ -1,3 +1,14 @@
+body {
+    background-color: #F2EFE9;
+}
+
+select {
+    font-family: "futura-pt", sans-serif;
+    font-size: medium;
+    font-weight: 500;
+    background-color: rgba(191, 144, 4, 0.25);
+}
+
 #map {
     height: 800px;
     width: 100%;
@@ -15,17 +26,27 @@
 }
 
 .map-title-container {   
+    font-family: "romana-tw", serif;
+    font-style: italic;
     position: absolute;
-    bottom: 20px; 
+    bottom: 10px; 
     right: 20px;
     z-index: 1000; 
 }
 
+#map-title {
+    color: #010440
+}
+
 .floating-query-panel {
+    -webkit-text-fill-color: #250E00;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 600;
+    font-style: normal;;
     position: fixed;
     top: 100px; 
     left: 20px; 
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(191, 144, 4, 0.3);
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -52,7 +73,7 @@
     vertical-align: middle; }
 
 #query-results-container {
-    max-height: 400px; /* Adjust the max height as needed */
+    max-height: 400px; 
     overflow-y: auto;
 }
 
@@ -66,4 +87,5 @@
     border: 1px solid black;
     padding: 8px;
     text-align: left;
+    background-color: rgba(242, 239, 233, 0.8);
 }

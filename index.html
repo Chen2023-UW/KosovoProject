@@ -6,13 +6,15 @@
     <title>KosovoProject</title>
     <link rel="stylesheet" href="lib/leaflet/leaflet.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://use.typekit.net/qnw7knw.css">
+    <link rel="stylesheet" href="https://use.typekit.net/qnw7knw.css">
 </head>
 <body>
 
     <div id="map"></div>
 
     <div class="controls">
-        <!-- Original month control -->
+
         <select id="month-select">
             <option value="3">March</option>
             <option value="4">April</option>
@@ -25,10 +27,8 @@
     </div>
 
     <div class="floating-query-panel">
-        <h2>Database Query Panel</h2>
-        
-        <!-- Attribute selectors for the query -->
-        <label for = "mon-select">Select Month:</label>
+        <h2>Search:</h2>
+        <label for = "mon-select">Month:</label>
         <select id = "mon-select">
             <option value="3">March</option>
             <option value="4">April</option>
@@ -36,7 +36,7 @@
             <option value="6">June</option>
         </select>
 
-        <label for="region-select">Select Region:</label>
+        <label for="region-select">Region:</label>
         <select id="region-select">
             <option value="Serbia">Serbia</option>
             <option value="Kosovo">Kosovo</option>
@@ -45,7 +45,7 @@
             <option value="Vojvodina">Vojvodina</option>
         </select>
 
-        <label for="type-select">Select Type:</label>
+        <label for="type-select">Type:</label>
         <select id="type-select">
             <option value="various">various</option>
             <option value="military facility">military facility</option>
@@ -56,11 +56,11 @@
             <option value="industry">industry</option>
             <option value="military units">military units</option>
         </select>
-
         <br>
-        <input type="button" value="Execute Query" onclick="executeQuery()">
+        <input type="button" value="Execute" onclick="executeQuery()" style = "background: transparent;">
+
         <div id="query-results-container">
-            <h2>Query Results:</h2>
+            <h2>Results:</h2>
             <table id="query-results">        
             </table>
         </div>
@@ -76,7 +76,8 @@
     </div>
 
     <div class="map-title-container">
-        <div id="map-title"><h1><i>NATO Bombing of Yugoslavia, 1999</i></h1></div>
+        <div id="map-title"><h1>NATO bombardovanje Jugoslavije, 1999</h1>
+        <i>(Operation Allied Force)</i></div>
     </div>
 
     <script type="text/javascript" src="lib/leaflet/leaflet.js"></script>

@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
         map = L.map("map", {
             center: [44, 20],
             zoom: 7,
-            layers: [voyagerBaseMap]
+            layers: [terrainBaseMap]
             });
       
         var baseMaps = {
