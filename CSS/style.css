@@ -45,3 +45,9 @@
     top: 82%;
     z-index: 1045;
 }
+
+#switch-base-map-button img {
+    max-width: 24px; /* Adjust the maximum width as needed */
+    max-height: 24px; /* Adjust the maximum height as needed */
+    vertical-align: middle; /* Align the image vertically in the middle of the button */
+}

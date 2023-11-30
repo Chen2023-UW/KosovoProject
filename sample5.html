@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>KosovoProject</title>
-
     <link rel="stylesheet" href="lib/leaflet/leaflet.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -15,8 +14,8 @@
         <div id="map-title"><h2><i>NATO Bombing of Yugoslavia, 1999</div></i></h2>
     </div>
 
-    <!-- Create controls for month selection and day slider -->
     <div class="controls">
+        <button id="switch-base-map-button"><img src = "img/basemap.png" alt = "switch basemap"></button>
         <select id="month-select">
             <option value="3">March</option>
             <option value="4">April</option>
@@ -26,10 +25,8 @@
         <img src="img/backward.png" id="prev-day" alt="Previous Day">
         <input type="range" id="day-slider" min="1" max="31" step="1">
         <img src="img/forward.png" id="next-day" alt="Next Day">
-        <p>Day <span id= "day-value"></span></p>
     </div>
 
-    <!-- Your existing HTML content -->
 
     <div class="floating-query-panel">
         <h2>Database Query Panel</h2>
@@ -43,16 +40,8 @@
         </table>
     </div>
 
-    <!-- Your existing HTML content -->
-    <div class = "button">
-        <form action="/action_page.php">
-            <input type="file" id="myFile" name= "filename">
-            <input type= "submit">
-        </form>
-        </div>
-
     <script type="text/javascript" src="lib/leaflet/leaflet.js"></script>
-    <script type="text/javascript" src="JS/sam3.js"></script>
+    <script type="text/javascript" src="JS/sam4.js"></script>
     <script type="text/javascript" src="JS/server.js"></script>
 
     <script>
