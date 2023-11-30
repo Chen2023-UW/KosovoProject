@@ -63,15 +63,28 @@ document.addEventListener('DOMContentLoaded', function () {
   
           geoJsonLayer = L.geoJSON(filteredData, {
             pointToLayer: function (feature, latlng) {
-              return L.circleMarker(latlng, {
-                fillColor: "#ecebe6",
+              const marker = L.circleMarker(latlng, {
+                fillColor: "#bf9404",
                 color: "#000",
                 weight: 1,
                 opacity: 0.8,
                 fillOpacity: 0.8,
                 radius: 8,
               });
+
+              marker.on('click',function(){
+                marker.setStyle({
+                  fillColor:"#BF0404",
+                  color: "#000",
+                  weight: 1,
+                  opacity: 0.8,
+                  fillOpacity: 0.8,
+                  radius: 8,
+                });
+              });
+              return marker;
             },
+
             onEachFeature: function (feature, layer) {
               var popupContent = "Location: " + feature.properties.loc 
               + "<br>Date: " + feature.properties.date

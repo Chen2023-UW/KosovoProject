@@ -15,10 +15,6 @@ select {
     display: inline-block;
 }
 
-.leaflet-popup-content p {
-    margin: .1em;
-}
-
 #prev-day,
 #next-day {
     width: 16px;
@@ -88,4 +84,10 @@ select {
     padding: 8px;
     text-align: left;
     background-color: rgba(242, 239, 233, 0.8);
+}
+
+.leaflet-popup-content {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
 }
